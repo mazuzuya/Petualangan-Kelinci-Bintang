@@ -1,0 +1,431 @@
+{
+  "image": "/generated-assets/platform_variants_2-transparent.webp",
+  "grid": {
+    "cols": 5,
+    "rows": 4,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "meadow_clover_turf",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 30,
+        "y": 106,
+        "w": 354,
+        "h": 191
+      },
+      "anchor": {
+        "x": 207,
+        "y": 296
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 133
+    },
+    {
+      "name": "meadow_wagon_plank",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 423,
+        "y": 107,
+        "w": 345,
+        "h": 211
+      },
+      "anchor": {
+        "x": 596,
+        "y": 317
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 144
+    },
+    {
+      "name": "woods_mushroom_root",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 809,
+        "y": 95,
+        "w": 349,
+        "h": 229
+      },
+      "anchor": {
+        "x": 984,
+        "y": 323
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 144
+    },
+    {
+      "name": "woods_pinecone_bridge",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1197,
+        "y": 129,
+        "w": 352,
+        "h": 211
+      },
+      "anchor": {
+        "x": 1373,
+        "y": 339
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 130
+    },
+    {
+      "name": "waterfall_foam_rock",
+      "source": {
+        "x": 1592,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1586,
+        "y": 123,
+        "w": 355,
+        "h": 193
+      },
+      "anchor": {
+        "x": 1764,
+        "y": 315
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 129
+    },
+    {
+      "name": "waterfall_reed_shelf",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 31,
+        "y": 413,
+        "w": 352,
+        "h": 285
+      },
+      "anchor": {
+        "x": 207,
+        "y": 697
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 504
+    },
+    {
+      "name": "autumn_pumpkin_vine",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 423,
+        "y": 435,
+        "w": 348,
+        "h": 268
+      },
+      "anchor": {
+        "x": 597,
+        "y": 702
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 486
+    },
+    {
+      "name": "autumn_acorn_bridge",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 810,
+        "y": 451,
+        "w": 348,
+        "h": 243
+      },
+      "anchor": {
+        "x": 984,
+        "y": 693
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 492
+    },
+    {
+      "name": "buzzer_pollen_pad",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1202,
+        "y": 476,
+        "w": 343,
+        "h": 196
+      },
+      "anchor": {
+        "x": 1374,
+        "y": 671
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 490
+    },
+    {
+      "name": "buzzer_honey_jar_lid",
+      "source": {
+        "x": 1592,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1586,
+        "y": 477,
+        "w": 357,
+        "h": 231
+      },
+      "anchor": {
+        "x": 1765,
+        "y": 707
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 485
+    },
+    {
+      "name": "frost_frozen_log",
+      "source": {
+        "x": 56,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 32,
+        "y": 798,
+        "w": 351,
+        "h": 256
+      },
+      "anchor": {
+        "x": 208,
+        "y": 1053
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 853
+    },
+    {
+      "name": "frost_aurora_crystal",
+      "source": {
+        "x": 440,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 423,
+        "y": 849,
+        "w": 347,
+        "h": 206
+      },
+      "anchor": {
+        "x": 597,
+        "y": 1054
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 858
+    },
+    {
+      "name": "storm_torn_kite",
+      "source": {
+        "x": 824,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 809,
+        "y": 822,
+        "w": 351,
+        "h": 245
+      },
+      "anchor": {
+        "x": 985,
+        "y": 1066
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 849
+    },
+    {
+      "name": "storm_metal_cloud",
+      "source": {
+        "x": 1208,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1200,
+        "y": 811,
+        "w": 344,
+        "h": 243
+      },
+      "anchor": {
+        "x": 1372,
+        "y": 1053
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 818
+    },
+    {
+      "name": "ruins_mosaic_slab",
+      "source": {
+        "x": 1592,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1586,
+        "y": 832,
+        "w": 356,
+        "h": 228
+      },
+      "anchor": {
+        "x": 1764,
+        "y": 1059
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 838
+    },
+    {
+      "name": "ruins_chain_lift",
+      "source": {
+        "x": 56,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 30,
+        "y": 1136,
+        "w": 355,
+        "h": 274
+      },
+      "anchor": {
+        "x": 208,
+        "y": 1409
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 1287
+    },
+    {
+      "name": "strato_airship_panel",
+      "source": {
+        "x": 440,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 429,
+        "y": 1215,
+        "w": 343,
+        "h": 191
+      },
+      "anchor": {
+        "x": 601,
+        "y": 1405
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 1216
+    },
+    {
+      "name": "strato_moon_dust",
+      "source": {
+        "x": 824,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 809,
+        "y": 1203,
+        "w": 351,
+        "h": 245
+      },
+      "anchor": {
+        "x": 985,
+        "y": 1447
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 1231
+    },
+    {
+      "name": "cosmic_planet_shard",
+      "source": {
+        "x": 1208,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1210,
+        "y": 1184,
+        "w": 338,
+        "h": 260
+      },
+      "anchor": {
+        "x": 1379,
+        "y": 1443
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 1199
+    },
+    {
+      "name": "cosmic_nebula_crystal",
+      "source": {
+        "x": 1592,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1586,
+        "y": 1182,
+        "w": 356,
+        "h": 266
+      },
+      "anchor": {
+        "x": 1764,
+        "y": 1447
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 1228
+    }
+  ]
+}

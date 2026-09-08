@@ -1,0 +1,29 @@
+{
+  "image": "/generated-assets/mushroom_platform-transparent.webp",
+  "grid": {
+    "cols": 1,
+    "rows": 1,
+    "frameWidth": 990,
+    "frameHeight": 587
+  },
+  "frames": [
+    {
+      "name": "giant-bounce-mushroom",
+      "source": {
+        "x": 0,
+        "y": 0,
+        "w": 990,
+        "h": 587
+      },
+      "content": {
+        "x": 0,
+        "y": 0,
+        "w": 990,
+        "h": 587
+      },
+      "anchor": null,
+      "surfaceEdge": "top",
+      "surfaceY": 26
+    }
+  ]
+}

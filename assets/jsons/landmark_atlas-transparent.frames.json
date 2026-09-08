@@ -1,0 +1,239 @@
+{
+  "image": "/generated-assets/landmark_atlas-transparent.webp",
+  "grid": {
+    "cols": 4,
+    "rows": 3,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "meadow_windmill",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 52,
+        "y": 15,
+        "w": 298,
+        "h": 367
+      },
+      "anchor": {
+        "x": 201,
+        "y": 381
+      }
+    },
+    {
+      "name": "woods_tree_spirit",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 406,
+        "y": 17,
+        "w": 366,
+        "h": 366
+      },
+      "anchor": {
+        "x": 589,
+        "y": 382
+      }
+    },
+    {
+      "name": "waterfall_frog_totem",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 807,
+        "y": 33,
+        "w": 348,
+        "h": 352
+      },
+      "anchor": {
+        "x": 981,
+        "y": 384
+      }
+    },
+    {
+      "name": "autumn_leaf_lantern",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1212,
+        "y": 24,
+        "w": 316,
+        "h": 357
+      },
+      "anchor": {
+        "x": 1370,
+        "y": 380
+      }
+    },
+    {
+      "name": "buzzer_queen_hive",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 23,
+        "y": 407,
+        "w": 357,
+        "h": 358
+      },
+      "anchor": {
+        "x": 202,
+        "y": 764
+      }
+    },
+    {
+      "name": "frost_moon_arch",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 409,
+        "y": 418,
+        "w": 365,
+        "h": 347
+      },
+      "anchor": {
+        "x": 592,
+        "y": 764
+      }
+    },
+    {
+      "name": "storm_bell_tower",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 832,
+        "y": 401,
+        "w": 281,
+        "h": 368
+      },
+      "anchor": {
+        "x": 973,
+        "y": 768
+      }
+    },
+    {
+      "name": "ruins_guardian",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1183,
+        "y": 416,
+        "w": 378,
+        "h": 355
+      },
+      "anchor": {
+        "x": 1372,
+        "y": 770
+      }
+    },
+    {
+      "name": "strato_weather_balloon",
+      "source": {
+        "x": 56,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 38,
+        "y": 784,
+        "w": 298,
+        "h": 379
+      },
+      "anchor": {
+        "x": 187,
+        "y": 1162
+      }
+    },
+    {
+      "name": "cosmic_telescope",
+      "source": {
+        "x": 440,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 434,
+        "y": 802,
+        "w": 326,
+        "h": 365
+      },
+      "anchor": {
+        "x": 597,
+        "y": 1166
+      }
+    },
+    {
+      "name": "checkpoint_flag",
+      "source": {
+        "x": 824,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 813,
+        "y": 795,
+        "w": 340,
+        "h": 372
+      },
+      "anchor": {
+        "x": 983,
+        "y": 1166
+      }
+    },
+    {
+      "name": "finish_beacon",
+      "source": {
+        "x": 1208,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1212,
+        "y": 786,
+        "w": 319,
+        "h": 383
+      },
+      "anchor": {
+        "x": 1372,
+        "y": 1168
+      }
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "image": "/generated-assets/landmarks_11_20-transparent.webp",
+  "grid": {
+    "cols": 5,
+    "rows": 4,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "moon_oracle_tree",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 18,
+        "y": 11,
+        "w": 374,
+        "h": 384
+      },
+      "anchor": {
+        "x": 205,
+        "y": 394
+      }
+    },
+    {
+      "name": "moon_checkpoint",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 486,
+        "y": 29,
+        "w": 276,
+        "h": 365
+      },
+      "anchor": {
+        "x": 624,
+        "y": 393
+      }
+    },
+    {
+      "name": "clock_grand_tower",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 847,
+        "y": 9,
+        "w": 281,
+        "h": 385
+      },
+      "anchor": {
+        "x": 988,
+        "y": 393
+      }
+    },
+    {
+      "name": "clock_checkpoint",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1232,
+        "y": 28,
+        "w": 284,
+        "h": 369
+      },
+      "anchor": {
+        "x": 1374,
+        "y": 396
+      }
+    },
+    {
+      "name": "crystal_heart_geode",
+      "source": {
+        "x": 1592,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1578,
+        "y": 28,
+        "w": 356,
+        "h": 358
+      },
+      "anchor": {
+        "x": 1756,
+        "y": 385
+      }
+    },
+    {
+      "name": "crystal_checkpoint",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 79,
+        "y": 417,
+        "w": 277,
+        "h": 350
+      },
+      "anchor": {
+        "x": 218,
+        "y": 766
+      }
+    },
+    {
+      "name": "volcano_dragon_skull",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 377,
+        "y": 416,
+        "w": 424,
+        "h": 349
+      },
+      "anchor": {
+        "x": 589,
+        "y": 764
+      }
+    },
+    {
+      "name": "volcano_checkpoint",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 850,
+        "y": 410,
+        "w": 277,
+        "h": 360
+      },
+      "anchor": {
+        "x": 989,
+        "y": 769
+      }
+    },
+    {
+      "name": "candy_royal_gate",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1164,
+        "y": 402,
+        "w": 427,
+        "h": 363
+      },
+      "anchor": {
+        "x": 1378,
+        "y": 764
+      }
+    },
+    {
+      "name": "candy_checkpoint",
+      "source": {
+        "x": 1592,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1656,
+        "y": 426,
+        "w": 268,
+        "h": 340
+      },
+      "anchor": {
+        "x": 1790,
+        "y": 765
+      }
+    },
+    {
+      "name": "ocean_pearl_palace",
+      "source": {
+        "x": 56,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 13,
+        "y": 774,
+        "w": 388,
+        "h": 366
+      },
+      "anchor": {
+        "x": 207,
+        "y": 1139
+      }
+    },
+    {
+      "name": "ocean_checkpoint",
+      "source": {
+        "x": 440,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 476,
+        "y": 797,
+        "w": 272,
+        "h": 346
+      },
+      "anchor": {
+        "x": 612,
+        "y": 1142
+      }
+    },
+    {
+      "name": "carnival_ghost_wheel",
+      "source": {
+        "x": 824,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 785,
+        "y": 783,
+        "w": 399,
+        "h": 357
+      },
+      "anchor": {
+        "x": 985,
+        "y": 1139
+      }
+    },
+    {
+      "name": "carnival_checkpoint",
+      "source": {
+        "x": 1208,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1247,
+        "y": 788,
+        "w": 289,
+        "h": 355
+      },
+      "anchor": {
+        "x": 1392,
+        "y": 1142
+      }
+    },
+    {
+      "name": "library_wise_door",
+      "source": {
+        "x": 1592,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1592,
+        "y": 777,
+        "w": 341,
+        "h": 362
+      },
+      "anchor": {
+        "x": 1763,
+        "y": 1138
+      }
+    },
+    {
+      "name": "library_checkpoint",
+      "source": {
+        "x": 56,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 65,
+        "y": 1164,
+        "w": 277,
+        "h": 389
+      },
+      "anchor": {
+        "x": 204,
+        "y": 1552
+      }
+    },
+    {
+      "name": "prism_light_throne",
+      "source": {
+        "x": 440,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 407,
+        "y": 1144,
+        "w": 368,
+        "h": 421
+      },
+      "anchor": {
+        "x": 591,
+        "y": 1564
+      }
+    },
+    {
+      "name": "prism_checkpoint",
+      "source": {
+        "x": 824,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 871,
+        "y": 1167,
+        "w": 277,
+        "h": 379
+      },
+      "anchor": {
+        "x": 1010,
+        "y": 1545
+      }
+    },
+    {
+      "name": "forge_celestial_hammer",
+      "source": {
+        "x": 1208,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1203,
+        "y": 1153,
+        "w": 332,
+        "h": 400
+      },
+      "anchor": {
+        "x": 1369,
+        "y": 1552
+      }
+    },
+    {
+      "name": "forge_checkpoint",
+      "source": {
+        "x": 1592,
+        "y": 1208,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1619,
+        "y": 1166,
+        "w": 310,
+        "h": 380
+      },
+      "anchor": {
+        "x": 1774,
+        "y": 1545
+      }
+    }
+  ]
+}

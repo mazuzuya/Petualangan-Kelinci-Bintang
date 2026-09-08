@@ -1,0 +1,38 @@
+{
+  "moveSpeed": {
+    "type": "number",
+    "value": 155,
+    "min": 110,
+    "max": 210,
+    "step": 5,
+    "name": "Kecepatan Udara",
+    "group": "gameplay"
+  },
+  "jumpVelocity": {
+    "type": "number",
+    "value": 430,
+    "min": 360,
+    "max": 520,
+    "step": 5,
+    "name": "Tenaga Lompat",
+    "group": "gameplay"
+  },
+  "coyoteTime": {
+    "type": "number",
+    "value": 0.14,
+    "min": 0.08,
+    "max": 0.22,
+    "step": 0.01,
+    "name": "Coyote Time",
+    "group": "gameplay"
+  },
+  "effectsIntensity": {
+    "type": "number",
+    "value": 1,
+    "min": 0,
+    "max": 1.5,
+    "step": 0.1,
+    "name": "Intensitas Efek",
+    "group": "visual"
+  }
+}

@@ -1,0 +1,940 @@
+{
+  "image": "/generated-assets/weather_effects_1-transparent.webp",
+  "grid": {
+    "cols": 8,
+    "rows": 3,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "meadow_dandelion_gust_1",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 134,
+        "y": 93,
+        "w": 164,
+        "h": 226
+      },
+      "anchor": {
+        "x": 216,
+        "y": 318
+      }
+    },
+    {
+      "name": "meadow_dandelion_gust_2",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 462,
+        "y": 58,
+        "w": 252,
+        "h": 262
+      },
+      "anchor": {
+        "x": 588,
+        "y": 319
+      }
+    },
+    {
+      "name": "meadow_dandelion_gust_3",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 844,
+        "y": 57,
+        "w": 276,
+        "h": 262
+      },
+      "anchor": {
+        "x": 982,
+        "y": 318
+      }
+    },
+    {
+      "name": "meadow_dandelion_gust_4",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1236,
+        "y": 99,
+        "w": 286,
+        "h": 175
+      },
+      "anchor": {
+        "x": 1379,
+        "y": 273
+      }
+    },
+    {
+      "name": "meadow_dandelion_gust_5",
+      "source": {
+        "x": 1592,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1568,
+        "y": 59,
+        "w": 363,
+        "h": 251
+      },
+      "anchor": {
+        "x": 1750,
+        "y": 309
+      }
+    },
+    {
+      "name": "meadow_dandelion_gust_6",
+      "source": {
+        "x": 1976,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1977,
+        "y": 69,
+        "w": 344,
+        "h": 232
+      },
+      "anchor": {
+        "x": 2149,
+        "y": 300
+      }
+    },
+    {
+      "name": "meadow_dandelion_gust_7",
+      "source": {
+        "x": 2360,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 2354,
+        "y": 71,
+        "w": 356,
+        "h": 229
+      },
+      "anchor": {
+        "x": 2532,
+        "y": 299
+      }
+    },
+    {
+      "name": "meadow_dandelion_gust_8",
+      "source": {
+        "x": 2744,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 2785,
+        "y": 103,
+        "w": 294,
+        "h": 179
+      },
+      "anchor": {
+        "x": 2932,
+        "y": 281
+      }
+    },
+    {
+      "name": "woods_firefly_spiral_1",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 117,
+        "y": 483,
+        "w": 193,
+        "h": 188
+      },
+      "anchor": {
+        "x": 214,
+        "y": 670
+      }
+    },
+    {
+      "name": "woods_firefly_spiral_2",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 473,
+        "y": 450,
+        "w": 238,
+        "h": 254
+      },
+      "anchor": {
+        "x": 592,
+        "y": 703
+      }
+    },
+    {
+      "name": "woods_firefly_spiral_3",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 857,
+        "y": 450,
+        "w": 254,
+        "h": 255
+      },
+      "anchor": {
+        "x": 984,
+        "y": 704
+      }
+    },
+    {
+      "name": "woods_firefly_spiral_4",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1225,
+        "y": 443,
+        "w": 270,
+        "h": 274
+      },
+      "anchor": {
+        "x": 1360,
+        "y": 716
+      }
+    },
+    {
+      "name": "woods_firefly_spiral_5",
+      "source": {
+        "x": 1592,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1637,
+        "y": 447,
+        "w": 262,
+        "h": 260
+      },
+      "anchor": {
+        "x": 1768,
+        "y": 706
+      }
+    },
+    {
+      "name": "woods_firefly_spiral_6",
+      "source": {
+        "x": 1976,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 2018,
+        "y": 443,
+        "w": 275,
+        "h": 275
+      },
+      "anchor": {
+        "x": 2156,
+        "y": 717
+      }
+    },
+    {
+      "name": "woods_firefly_spiral_7",
+      "source": {
+        "x": 2360,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 2421,
+        "y": 447,
+        "w": 261,
+        "h": 265
+      },
+      "anchor": {
+        "x": 2552,
+        "y": 711
+      }
+    },
+    {
+      "name": "woods_firefly_spiral_8",
+      "source": {
+        "x": 2744,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 2808,
+        "y": 466,
+        "w": 226,
+        "h": 224
+      },
+      "anchor": {
+        "x": 2921,
+        "y": 689
+      }
+    },
+    {
+      "name": "waterfall_splash_column_1",
+      "source": {
+        "x": 56,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 87,
+        "y": 911,
+        "w": 252,
+        "h": 215
+      },
+      "anchor": {
+        "x": 213,
+        "y": 1125
+      }
+    },
+    {
+      "name": "waterfall_splash_column_2",
+      "source": {
+        "x": 440,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 444,
+        "y": 828,
+        "w": 284,
+        "h": 306
+      },
+      "anchor": {
+        "x": 586,
+        "y": 1133
+      }
+    },
+    {
+      "name": "waterfall_splash_column_3",
+      "source": {
+        "x": 824,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 828,
+        "y": 789,
+        "w": 293,
+        "h": 348
+      },
+      "anchor": {
+        "x": 975,
+        "y": 1136
+      }
+    },
+    {
+      "name": "waterfall_splash_column_4",
+      "source": {
+        "x": 1208,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1209,
+        "y": 783,
+        "w": 309,
+        "h": 355
+      },
+      "anchor": {
+        "x": 1364,
+        "y": 1137
+      }
+    },
+    {
+      "name": "waterfall_splash_column_5",
+      "source": {
+        "x": 1592,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1620,
+        "y": 787,
+        "w": 296,
+        "h": 349
+      },
+      "anchor": {
+        "x": 1768,
+        "y": 1135
+      }
+    },
+    {
+      "name": "waterfall_splash_column_6",
+      "source": {
+        "x": 1976,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 2009,
+        "y": 791,
+        "w": 297,
+        "h": 345
+      },
+      "anchor": {
+        "x": 2158,
+        "y": 1135
+      }
+    },
+    {
+      "name": "waterfall_splash_column_7",
+      "source": {
+        "x": 2360,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 2403,
+        "y": 804,
+        "w": 283,
+        "h": 330
+      },
+      "anchor": {
+        "x": 2545,
+        "y": 1133
+      }
+    },
+    {
+      "name": "waterfall_splash_column_8",
+      "source": {
+        "x": 2744,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 2789,
+        "y": 923,
+        "w": 253,
+        "h": 203
+      },
+      "anchor": {
+        "x": 2916,
+        "y": 1125
+      }
+    }
+  ],
+  "animations": [
+    {
+      "name": "meadow_dandelion_gust",
+      "frames": [
+        {
+          "name": "meadow_dandelion_gust_1",
+          "source": {
+            "x": 56,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 134,
+            "y": 93,
+            "w": 164,
+            "h": 226
+          },
+          "anchor": {
+            "x": 216,
+            "y": 318
+          }
+        },
+        {
+          "name": "meadow_dandelion_gust_2",
+          "source": {
+            "x": 440,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 462,
+            "y": 58,
+            "w": 252,
+            "h": 262
+          },
+          "anchor": {
+            "x": 588,
+            "y": 319
+          }
+        },
+        {
+          "name": "meadow_dandelion_gust_3",
+          "source": {
+            "x": 824,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 844,
+            "y": 57,
+            "w": 276,
+            "h": 262
+          },
+          "anchor": {
+            "x": 982,
+            "y": 318
+          }
+        },
+        {
+          "name": "meadow_dandelion_gust_4",
+          "source": {
+            "x": 1208,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1236,
+            "y": 99,
+            "w": 286,
+            "h": 175
+          },
+          "anchor": {
+            "x": 1379,
+            "y": 273
+          }
+        },
+        {
+          "name": "meadow_dandelion_gust_5",
+          "source": {
+            "x": 1592,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1568,
+            "y": 59,
+            "w": 363,
+            "h": 251
+          },
+          "anchor": {
+            "x": 1750,
+            "y": 309
+          }
+        },
+        {
+          "name": "meadow_dandelion_gust_6",
+          "source": {
+            "x": 1976,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1977,
+            "y": 69,
+            "w": 344,
+            "h": 232
+          },
+          "anchor": {
+            "x": 2149,
+            "y": 300
+          }
+        },
+        {
+          "name": "meadow_dandelion_gust_7",
+          "source": {
+            "x": 2360,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 2354,
+            "y": 71,
+            "w": 356,
+            "h": 229
+          },
+          "anchor": {
+            "x": 2532,
+            "y": 299
+          }
+        },
+        {
+          "name": "meadow_dandelion_gust_8",
+          "source": {
+            "x": 2744,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 2785,
+            "y": 103,
+            "w": 294,
+            "h": 179
+          },
+          "anchor": {
+            "x": 2932,
+            "y": 281
+          }
+        }
+      ]
+    },
+    {
+      "name": "woods_firefly_spiral",
+      "frames": [
+        {
+          "name": "woods_firefly_spiral_1",
+          "source": {
+            "x": 56,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 117,
+            "y": 483,
+            "w": 193,
+            "h": 188
+          },
+          "anchor": {
+            "x": 214,
+            "y": 670
+          }
+        },
+        {
+          "name": "woods_firefly_spiral_2",
+          "source": {
+            "x": 440,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 473,
+            "y": 450,
+            "w": 238,
+            "h": 254
+          },
+          "anchor": {
+            "x": 592,
+            "y": 703
+          }
+        },
+        {
+          "name": "woods_firefly_spiral_3",
+          "source": {
+            "x": 824,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 857,
+            "y": 450,
+            "w": 254,
+            "h": 255
+          },
+          "anchor": {
+            "x": 984,
+            "y": 704
+          }
+        },
+        {
+          "name": "woods_firefly_spiral_4",
+          "source": {
+            "x": 1208,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1225,
+            "y": 443,
+            "w": 270,
+            "h": 274
+          },
+          "anchor": {
+            "x": 1360,
+            "y": 716
+          }
+        },
+        {
+          "name": "woods_firefly_spiral_5",
+          "source": {
+            "x": 1592,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1637,
+            "y": 447,
+            "w": 262,
+            "h": 260
+          },
+          "anchor": {
+            "x": 1768,
+            "y": 706
+          }
+        },
+        {
+          "name": "woods_firefly_spiral_6",
+          "source": {
+            "x": 1976,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 2018,
+            "y": 443,
+            "w": 275,
+            "h": 275
+          },
+          "anchor": {
+            "x": 2156,
+            "y": 717
+          }
+        },
+        {
+          "name": "woods_firefly_spiral_7",
+          "source": {
+            "x": 2360,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 2421,
+            "y": 447,
+            "w": 261,
+            "h": 265
+          },
+          "anchor": {
+            "x": 2552,
+            "y": 711
+          }
+        },
+        {
+          "name": "woods_firefly_spiral_8",
+          "source": {
+            "x": 2744,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 2808,
+            "y": 466,
+            "w": 226,
+            "h": 224
+          },
+          "anchor": {
+            "x": 2921,
+            "y": 689
+          }
+        }
+      ]
+    },
+    {
+      "name": "waterfall_splash_column",
+      "frames": [
+        {
+          "name": "waterfall_splash_column_1",
+          "source": {
+            "x": 56,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 87,
+            "y": 911,
+            "w": 252,
+            "h": 215
+          },
+          "anchor": {
+            "x": 213,
+            "y": 1125
+          }
+        },
+        {
+          "name": "waterfall_splash_column_2",
+          "source": {
+            "x": 440,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 444,
+            "y": 828,
+            "w": 284,
+            "h": 306
+          },
+          "anchor": {
+            "x": 586,
+            "y": 1133
+          }
+        },
+        {
+          "name": "waterfall_splash_column_3",
+          "source": {
+            "x": 824,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 828,
+            "y": 789,
+            "w": 293,
+            "h": 348
+          },
+          "anchor": {
+            "x": 975,
+            "y": 1136
+          }
+        },
+        {
+          "name": "waterfall_splash_column_4",
+          "source": {
+            "x": 1208,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1209,
+            "y": 783,
+            "w": 309,
+            "h": 355
+          },
+          "anchor": {
+            "x": 1364,
+            "y": 1137
+          }
+        },
+        {
+          "name": "waterfall_splash_column_5",
+          "source": {
+            "x": 1592,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1620,
+            "y": 787,
+            "w": 296,
+            "h": 349
+          },
+          "anchor": {
+            "x": 1768,
+            "y": 1135
+          }
+        },
+        {
+          "name": "waterfall_splash_column_6",
+          "source": {
+            "x": 1976,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 2009,
+            "y": 791,
+            "w": 297,
+            "h": 345
+          },
+          "anchor": {
+            "x": 2158,
+            "y": 1135
+          }
+        },
+        {
+          "name": "waterfall_splash_column_7",
+          "source": {
+            "x": 2360,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 2403,
+            "y": 804,
+            "w": 283,
+            "h": 330
+          },
+          "anchor": {
+            "x": 2545,
+            "y": 1133
+          }
+        },
+        {
+          "name": "waterfall_splash_column_8",
+          "source": {
+            "x": 2744,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 2789,
+            "y": 923,
+            "w": 253,
+            "h": 203
+          },
+          "anchor": {
+            "x": 2916,
+            "y": 1125
+          }
+        }
+      ]
+    }
+  ]
+}

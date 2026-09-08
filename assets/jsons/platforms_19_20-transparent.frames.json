@@ -1,0 +1,221 @@
+{
+  "image": "/generated-assets/platforms_19_20-transparent.webp",
+  "grid": {
+    "cols": 5,
+    "rows": 2,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "prism_glass_shard",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 31,
+        "y": 97,
+        "w": 356,
+        "h": 239
+      },
+      "anchor": {
+        "x": 209,
+        "y": 335
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 105
+    },
+    {
+      "name": "prism_mirror_disc",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 421,
+        "y": 95,
+        "w": 354,
+        "h": 244
+      },
+      "anchor": {
+        "x": 598,
+        "y": 338
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 103
+    },
+    {
+      "name": "prism_rainbow_crystal",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 807,
+        "y": 59,
+        "w": 356,
+        "h": 285
+      },
+      "anchor": {
+        "x": 985,
+        "y": 343
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 105
+    },
+    {
+      "name": "prism_light_bridge",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1196,
+        "y": 51,
+        "w": 364,
+        "h": 291
+      },
+      "anchor": {
+        "x": 1378,
+        "y": 341
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 106
+    },
+    {
+      "name": "prism_kaleidoscope_tile",
+      "source": {
+        "x": 1592,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1591,
+        "y": 96,
+        "w": 359,
+        "h": 257
+      },
+      "anchor": {
+        "x": 1771,
+        "y": 352
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 96
+    },
+    {
+      "name": "forge_star_iron",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 33,
+        "y": 451,
+        "w": 353,
+        "h": 254
+      },
+      "anchor": {
+        "x": 210,
+        "y": 704
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 459
+    },
+    {
+      "name": "forge_golden_anvil",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 420,
+        "y": 450,
+        "w": 356,
+        "h": 261
+      },
+      "anchor": {
+        "x": 598,
+        "y": 710
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 460
+    },
+    {
+      "name": "forge_molten_crust",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 808,
+        "y": 453,
+        "w": 355,
+        "h": 266
+      },
+      "anchor": {
+        "x": 986,
+        "y": 718
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 459
+    },
+    {
+      "name": "forge_chain_plate",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1195,
+        "y": 451,
+        "w": 364,
+        "h": 287
+      },
+      "anchor": {
+        "x": 1377,
+        "y": 737
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 455
+    },
+    {
+      "name": "forge_crown_metal",
+      "source": {
+        "x": 1592,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1593,
+        "y": 402,
+        "w": 354,
+        "h": 328
+      },
+      "anchor": {
+        "x": 1770,
+        "y": 729
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 467
+    }
+  ]
+}

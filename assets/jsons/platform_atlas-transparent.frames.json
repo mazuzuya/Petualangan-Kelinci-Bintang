@@ -1,0 +1,221 @@
+{
+  "image": "/generated-assets/platform_atlas-transparent.webp",
+  "grid": {
+    "cols": 5,
+    "rows": 2,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "meadow_stump",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 31,
+        "y": 115,
+        "w": 353,
+        "h": 226
+      },
+      "anchor": {
+        "x": 208,
+        "y": 340
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 122
+    },
+    {
+      "name": "forest_leaf",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 421,
+        "y": 122,
+        "w": 352,
+        "h": 230
+      },
+      "anchor": {
+        "x": 597,
+        "y": 351
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 128
+    },
+    {
+      "name": "waterfall_rock",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 813,
+        "y": 115,
+        "w": 342,
+        "h": 243
+      },
+      "anchor": {
+        "x": 984,
+        "y": 357
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 123
+    },
+    {
+      "name": "autumn_branch",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1198,
+        "y": 117,
+        "w": 352,
+        "h": 215
+      },
+      "anchor": {
+        "x": 1374,
+        "y": 331
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 159
+    },
+    {
+      "name": "honey_cliff",
+      "source": {
+        "x": 1592,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1592,
+        "y": 114,
+        "w": 342,
+        "h": 244
+      },
+      "anchor": {
+        "x": 1763,
+        "y": 357
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 121
+    },
+    {
+      "name": "snow_ice",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 31,
+        "y": 465,
+        "w": 352,
+        "h": 244
+      },
+      "anchor": {
+        "x": 207,
+        "y": 708
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 475
+    },
+    {
+      "name": "storm_cloud",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 419,
+        "y": 453,
+        "w": 357,
+        "h": 253
+      },
+      "anchor": {
+        "x": 598,
+        "y": 705
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 478
+    },
+    {
+      "name": "ruin_slab",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 813,
+        "y": 465,
+        "w": 347,
+        "h": 241
+      },
+      "anchor": {
+        "x": 987,
+        "y": 705
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 470
+    },
+    {
+      "name": "strato_bubble",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1202,
+        "y": 466,
+        "w": 346,
+        "h": 222
+      },
+      "anchor": {
+        "x": 1375,
+        "y": 687
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 475
+    },
+    {
+      "name": "cosmic_meteor",
+      "source": {
+        "x": 1592,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1595,
+        "y": 466,
+        "w": 332,
+        "h": 235
+      },
+      "anchor": {
+        "x": 1761,
+        "y": 700
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 477
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+export const WORLD_WIDTH = 420;
+
+export const AREAS = [
+  { name: "Padang Rumput", short: "MEADOW", platform: "meadow_stump", tint: "#b8df79" },
+  { name: "Hutan Berbisik", short: "WOODS", platform: "forest_leaf", tint: "#4f9a64" },
+  { name: "Air Terjun Kabut", short: "MIST", platform: "waterfall_rock", tint: "#77c8c5" },
+  { name: "Punggung Gugur", short: "AUTUMN", platform: "autumn_branch", tint: "#e59b4c" },
+  { name: "Tebing Dengung", short: "BUZZER", platform: "honey_cliff", tint: "#f4c34e" },
+  { name: "Puncak Beku", short: "FROST", platform: "snow_ice", tint: "#b8edff" },
+  { name: "Badai Petir", short: "STORM", platform: "storm_cloud", tint: "#7989d7" },
+  { name: "Reruntuhan Langit", short: "RUINS", platform: "ruin_slab", tint: "#e1b76f" },
+  { name: "Stratosfer", short: "STRATO", platform: "strato_bubble", tint: "#bc8ee8" },
+  { name: "Puncak Kosmik", short: "COSMIC", platform: "cosmic_meteor", tint: "#ee79d1" },
+  { name: "Taman Bulan", short: "MOON", platform: "moon_crater_disc", tint: "#d8d4ff" },
+  { name: "Kota Roda Waktu", short: "CLOCK", platform: "clock_brass_gear", tint: "#e1a958" },
+  { name: "Gua Kristal", short: "CRYSTAL", platform: "crystal_amethyst_shelf", tint: "#87e6ff" },
+  { name: "Gunung Naga", short: "VOLCANO", platform: "volcano_basalt_ledge", tint: "#ff7048" },
+  { name: "Kerajaan Awan Permen", short: "CANDY", platform: "candy_wafer_bridge", tint: "#ff9dcc" },
+  { name: "Samudra Langit", short: "OCEAN", platform: "ocean_coral_shelf", tint: "#5fe4dc" },
+  { name: "Karnaval Arwah", short: "CARNIVAL", platform: "carnival_ticket_roof", tint: "#b989ff" },
+  { name: "Perpustakaan Tak Berujung", short: "LIBRARY", platform: "library_book_stack", tint: "#e4b879" },
+  { name: "Dimensi Prisma", short: "PRISM", platform: "prism_glass_shard", tint: "#88f4ff" },
+  { name: "Pandai Bintang Abadi", short: "FORGE", platform: "forge_star_iron", tint: "#ffd56a" },
+];
+
+export const SKINS = [
+  { id: "ranger", name: "Bunny Ranger", skill: "Sinyal 5 pijakan: lompat 1,5×", asset: "RABBIT_12_RANGER", animation: "ranger_leap" },
+  { id: "cyber", name: "Cyber Hopper", skill: "Double jump setiap 3 detik", asset: "RABBIT_12_CYBER", animation: "cyber_leap" },
+  { id: "chef", name: "Cottontail Chef", skill: "Power-up bertahan +2 detik", asset: "RABBIT_12_CHEF", animation: "chef_leap" },
+  { id: "knight", name: "Royal Knight", skill: "Mulai dengan satu perisai", asset: "RABBIT_12_KNIGHT", animation: "knight_leap" },
+  { id: "wizard", name: "Wizard Cottontail", skill: "Tahan lompat saat jatuh untuk melayang", asset: "RABBIT_12_WIZARD", animation: "wizard_leap" },
+  { id: "farmer", name: "Farmer Bun", skill: "Setiap wortel bernilai dua", asset: "RABBIT_12_FARMER", animation: "farmer_leap" },
+  { id: "astro", name: "Astro Bunny", skill: "Gravitasi 20% lebih ringan", asset: "RABBIT_12_ASTRO", animation: "astro_leap" },
+  { id: "ninja", name: "Ninja Shadow", skill: "Menempel dan wall jump tanpa batas", asset: "RABBIT_12_NINJA", animation: "ninja_leap" },
+  { id: "dj", name: "DJ Hoppr", skill: "Pendaratan tengah mengusir musuh", asset: "RABBIT_12_DJ", animation: "dj_leap" },
+  { id: "pajama", name: "Pajama Sleeper", skill: "Bangkit sekali dari pijakan terakhir", asset: "RABBIT_12_PAJAMA", animation: "pajama_leap" },
+  { id: "alchemist", name: "Forest Alchemist", skill: "8 wortel meracik satu perisai", asset: "RABBIT_12_ALCHEMIST", animation: "alchemist_leap", effect: "alchemist_brew", effectSheet: 0 },
+  { id: "pirate", name: "Pirate Bun", skill: "Jangkauan wortel luas + harta bonus", asset: "RABBIT_12_PIRATE", animation: "pirate_leap", effect: "pirate_treasure", effectSheet: 0 },
+  { id: "lava", name: "Lava Sprinter", skill: "Kebal duri dan bergerak lebih cepat", asset: "RABBIT_12_LAVA", animation: "lava_leap", effect: "lava_dash", effectSheet: 0 },
+  { id: "monk", name: "Cloud Monk", skill: "Dorongan cuaca berkurang 65%", asset: "RABBIT_12_MONK", animation: "monk_leap", effect: "monk_zen", effectSheet: 0 },
+  { id: "beekeeper", name: "Bee Keeper", skill: "Kebal lebah dan serbuk sari", asset: "RABBIT_12_BEEKEEPER", animation: "beekeeper_leap", effect: "beekeeper_honey", effectSheet: 1 },
+  { id: "miner", name: "Crystal Miner", skill: "Checkpoint memberi dua perisai", asset: "RABBIT_12_MINER", animation: "miner_leap", effect: "miner_crystal", effectSheet: 1 },
+  { id: "timekeeper", name: "Time Keeper", skill: "Dunia bergerak 22% lebih lambat", asset: "RABBIT_12_TIMEKEEPER", animation: "timekeeper_leap", effect: "timekeeper_clock", effectSheet: 1 },
+  { id: "moon", name: "Moon Dancer", skill: "Lompatan kosmik lebih tinggi", asset: "RABBIT_12_MOON", animation: "moon_leap", effect: "moon_crescent", effectSheet: 1 },
+  { id: "dragon", name: "Dragon Bun", skill: "Wing dash tambahan di udara", asset: "RABBIT_12_DRAGON", animation: "dragon_leap", effect: "dragon_wing", effectSheet: 2 },
+  { id: "rainbow", name: "Rainbow Idol", skill: "Tiga wortel memicu prism burst", asset: "RABBIT_12_RAINBOW", animation: "rainbow_leap", effect: "rainbow_prism", effectSheet: 2 },
+];
+
+export const PLATFORM_COUNT = 1000;
+export const PLATFORMS_PER_AREA = 50;
+export const METERS_PER_AREA = 1000;
+
+export const LANDMARKS = [
+  "meadow_windmill",
+  "woods_tree_spirit",
+  "waterfall_frog_totem",
+  "autumn_leaf_lantern",
+  "buzzer_queen_hive",
+  "frost_moon_arch",
+  "storm_bell_tower",
+  "ruins_guardian",
+  "strato_weather_balloon",
+  "cosmic_telescope",
+  "moon_oracle_tree",
+  "clock_grand_tower",
+  "crystal_heart_geode",
+  "volcano_dragon_skull",
+  "candy_royal_gate",
+  "ocean_pearl_palace",
+  "carnival_ghost_wheel",
+  "library_wise_door",
+  "prism_light_throne",
+  "forge_celestial_hammer",
+];
+
+export const CHECKPOINTS = [
+  "checkpoint_flag", "checkpoint_flag", "checkpoint_flag", "checkpoint_flag", "checkpoint_flag",
+  "checkpoint_flag", "checkpoint_flag", "checkpoint_flag", "checkpoint_flag", "checkpoint_flag",
+  "moon_checkpoint", "clock_checkpoint", "crystal_checkpoint", "volcano_checkpoint", "candy_checkpoint",
+  "ocean_checkpoint", "carnival_checkpoint", "library_checkpoint", "prism_checkpoint", "forge_checkpoint",
+];
+
+export const SUB_AREAS = [
+  ["Kebun Bunga", "Jalur Gerobak", "Bukit Kincir", "Lembah Duri", "Gerbang Hutan"],
+  ["Akar Rendah", "Lorong Pakis", "Pohon Roh", "Kanopi Burung", "Puncak Pinus"],
+  ["Batu Basah", "Kolam Teratai", "Totem Katak", "Jeram Licin", "Tirai Air"],
+  ["Lereng Jingga", "Jembatan Biji", "Hutan Lentera", "Pusaran Daun", "Jalur Angin"],
+  ["Kebun Madu", "Bunga Serbuk", "Sarang Ratu", "Lorong Lilin", "Kawanan Penjaga"],
+  ["Hutan Salju", "Danau Beku", "Gerbang Bulan", "Gua Kristal", "Hujan Es"],
+  ["Awan Hujan", "Jalur Layang", "Menara Lonceng", "Pusaran Badai", "Lorong Petir"],
+  ["Pilar Patah", "Jembatan Rantai", "Penjaga Kuno", "Ruang Rune", "Gerbang Portal"],
+  ["Batas Ozon", "Sayap Kapal", "Balon Cuaca", "Debu Bulan", "Arus Gravitasi"],
+  ["Sabuk Meteor", "Pecahan Planet", "Observatorium", "Nebula Retak", "Tangga Bintang"],
+  ["Kebun Kawah", "Jalur Mutiara", "Pohon Oracle", "Hujan Bulan", "Gerbang Sabit"],
+  ["Pipa Rendah", "Lorong Pegas", "Menara Jam", "Hujan Roda", "Puncak Tengah Malam"],
+  ["Akar Kuarsa", "Danau Geode", "Jantung Kristal", "Retakan Prisma", "Mahkota Amethyst"],
+  ["Tebing Basalt", "Jembatan Tulang", "Sarang Wyvern", "Sungai Lava", "Mulut Gunung"],
+  ["Ladang Wafer", "Lembah Karamel", "Gerbang Permen", "Badai Gula", "Istana Gumdrop"],
+  ["Taman Karang", "Arus Gelembung", "Istana Mutiara", "Jalur Hiu", "Puncak Ombak"],
+  ["Gerbang Tiket", "Lorong Komidi", "Roda Hantu", "Panggung Arwah", "Tenda Terakhir"],
+  ["Rak Tua", "Jembatan Gulungan", "Pintu Bijak", "Tornado Halaman", "Arsip Bintang"],
+  ["Lantai Cermin", "Lorong Spektrum", "Takhta Cahaya", "Kipas Laser", "Inti Kaleidoskop"],
+  ["Tambang Bintang", "Rantai Tungku", "Palu Langit", "Badai Nova", "Mahkota Abadi"],
+];
+
+export const PLATFORM_VARIANTS = [
+  ["meadow_flower_rock", "meadow_fallen_log", "meadow_clover_turf", "meadow_wagon_plank"],
+  ["woods_root_shelf", "woods_fern_leaf", "woods_mushroom_root", "woods_pinecone_bridge"],
+  ["waterfall_lily_stone", "waterfall_cascade_ledge", "waterfall_foam_rock", "waterfall_reed_shelf"],
+  ["autumn_maple_bough", "autumn_woven_nest", "autumn_pumpkin_vine", "autumn_acorn_bridge"],
+  ["buzzer_wax_shelf", "buzzer_flower_cliff", "buzzer_pollen_pad", "buzzer_honey_jar_lid"],
+  ["frost_snow_branch", "frost_crystal_slab", "frost_frozen_log", "frost_aurora_crystal"],
+  ["storm_rain_cloud", "storm_thunderhead", "storm_torn_kite", "storm_metal_cloud"],
+  ["ruins_column_cap", "ruins_rune_bridge", "ruins_mosaic_slab", "ruins_chain_lift"],
+  ["strato_ozone_bubble", "strato_satellite_panel", "strato_airship_panel", "strato_moon_dust"],
+  ["cosmic_comet_rock", "cosmic_star_crystal", "cosmic_planet_shard", "cosmic_nebula_crystal"],
+];
+
+export const NEW_PLATFORM_VARIANTS = [
+  ["moon_crater_disc", "moon_crescent_stone", "moon_pearl_vine", "moon_flower_bed", "moon_stardust_slab"],
+  ["clock_brass_gear", "clock_copper_pipe", "clock_hour_hand", "clock_balcony", "clock_spring_pad"],
+  ["crystal_amethyst_shelf", "crystal_geode_cap", "crystal_quartz_bridge", "crystal_prism_shard", "crystal_root"],
+  ["volcano_basalt_ledge", "volcano_obsidian_plate", "volcano_lava_crust", "volcano_dragon_bone", "volcano_ember_rock"],
+  ["candy_wafer_bridge", "candy_marshmallow", "candy_caramel_brittle", "candy_lollipop_disc", "candy_gumdrop_cloud"],
+  ["ocean_coral_shelf", "ocean_giant_shell", "ocean_bubble_raft", "ocean_kelp_braid", "ocean_wave_slab"],
+  ["carnival_ticket_roof", "carnival_big_drum", "carnival_carousel_base", "carnival_candyfloss_cloud", "carnival_spirit_plank"],
+  ["library_book_stack", "library_scroll_bridge", "library_wood_shelf", "library_ink_cloud", "library_flying_pages"],
+  ["prism_glass_shard", "prism_mirror_disc", "prism_rainbow_crystal", "prism_light_bridge", "prism_kaleidoscope_tile"],
+  ["forge_star_iron", "forge_golden_anvil", "forge_molten_crust", "forge_chain_plate", "forge_crown_metal"],
+];
+
+export const NEW_PLATFORM_SHEETS = [0, 0, 0, 1, 1, 2, 2, 2, 3, 3];
+
+export const AREA_ENCOUNTERS = [
+  { animation: "meadow_butterflies", sheet: 0, reward: true },
+  { animation: "woods_owl", sheet: 0 },
+  { animation: "waterfall_frog", sheet: 0 },
+  { animation: "autumn_leaf_spirit", sheet: 1 },
+  { animation: "buzzer_bee_guardian", sheet: 1 },
+  { animation: "frost_snowball", sheet: 1 },
+  { animation: "storm_thunderbird", sheet: 2 },
+  { animation: "ruins_rune_golem", sheet: 2 },
+  { animation: "strato_jellyfish", sheet: 2 },
+  { animation: "cosmic_starling", sheet: 3 },
+  { animation: "moon_moth", sheet: 4 },
+  { animation: "clock_gear_crow", sheet: 4 },
+  { animation: "crystal_mole", sheet: 4 },
+  { animation: "volcano_wyvern", sheet: 5 },
+  { animation: "candy_wasp", sheet: 5 },
+  { animation: "ocean_bubble_shark", sheet: 5 },
+  { animation: "carnival_ghost_jester", sheet: 6 },
+  { animation: "library_ink_owl", sheet: 6 },
+  { animation: "prism_mimic", sheet: 6 },
+  { animation: "forge_star_titan", sheet: 7 },
+];
+
+export const WEATHER_EVENTS = [
+  { animation: "meadow_dandelion_gust", sheet: 0, force: "right" },
+  { animation: "woods_firefly_spiral", sheet: 0 },
+  { animation: "waterfall_splash_column", sheet: 0, harmful: true },
+  { animation: "autumn_wind_vortex", sheet: 1, force: "alternate" },
+  { animation: "buzzer_pollen_burst", sheet: 1, harmful: true },
+  { animation: "frost_snow_gust", sheet: 1, force: "left" },
+  { animation: "storm_chain_lightning", sheet: 2, harmful: true },
+  { animation: "ruins_rune_beam", sheet: 2, harmful: true },
+  { animation: "strato_gravity_ripple", sheet: 2, force: "up" },
+  { animation: "cosmic_meteor_shower", sheet: 3, harmful: true },
+  { animation: "moon_meteor_bloom", sheet: 4, harmful: true },
+  { animation: "clock_gear_rain", sheet: 4, harmful: true },
+  { animation: "crystal_shard_quake", sheet: 4, harmful: true },
+  { animation: "volcano_lava_geyser", sheet: 5, harmful: true },
+  { animation: "candy_sugar_storm", sheet: 5, harmful: true, force: "alternate" },
+  { animation: "ocean_tidal_bubble", sheet: 5, force: "up" },
+  { animation: "carnival_spectral_spotlight", sheet: 6, harmful: true },
+  { animation: "library_page_tornado", sheet: 6, force: "alternate" },
+  { animation: "prism_laser_fan", sheet: 6, harmful: true },
+  { animation: "forge_nova_hammer", sheet: 7, harmful: true },
+];

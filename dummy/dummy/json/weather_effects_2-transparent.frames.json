@@ -1,0 +1,940 @@
+{
+  "image": "/generated-assets/weather_effects_2-transparent.webp",
+  "grid": {
+    "cols": 8,
+    "rows": 3,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "autumn_wind_vortex_1",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 60,
+        "y": 64,
+        "w": 310,
+        "h": 290
+      },
+      "anchor": {
+        "x": 215,
+        "y": 353
+      }
+    },
+    {
+      "name": "autumn_wind_vortex_2",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 445,
+        "y": 65,
+        "w": 307,
+        "h": 291
+      },
+      "anchor": {
+        "x": 599,
+        "y": 355
+      }
+    },
+    {
+      "name": "autumn_wind_vortex_3",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 825,
+        "y": 67,
+        "w": 310,
+        "h": 287
+      },
+      "anchor": {
+        "x": 980,
+        "y": 353
+      }
+    },
+    {
+      "name": "autumn_wind_vortex_4",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1207,
+        "y": 60,
+        "w": 316,
+        "h": 291
+      },
+      "anchor": {
+        "x": 1365,
+        "y": 350
+      }
+    },
+    {
+      "name": "autumn_wind_vortex_5",
+      "source": {
+        "x": 1592,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1593,
+        "y": 48,
+        "w": 317,
+        "h": 325
+      },
+      "anchor": {
+        "x": 1752,
+        "y": 372
+      }
+    },
+    {
+      "name": "autumn_wind_vortex_6",
+      "source": {
+        "x": 1976,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1988,
+        "y": 61,
+        "w": 315,
+        "h": 292
+      },
+      "anchor": {
+        "x": 2146,
+        "y": 352
+      }
+    },
+    {
+      "name": "autumn_wind_vortex_7",
+      "source": {
+        "x": 2360,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 2370,
+        "y": 69,
+        "w": 317,
+        "h": 282
+      },
+      "anchor": {
+        "x": 2529,
+        "y": 350
+      }
+    },
+    {
+      "name": "autumn_wind_vortex_8",
+      "source": {
+        "x": 2744,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 2753,
+        "y": 62,
+        "w": 311,
+        "h": 295
+      },
+      "anchor": {
+        "x": 2909,
+        "y": 356
+      }
+    },
+    {
+      "name": "buzzer_pollen_burst_1",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 69,
+        "y": 456,
+        "w": 298,
+        "h": 281
+      },
+      "anchor": {
+        "x": 218,
+        "y": 736
+      }
+    },
+    {
+      "name": "buzzer_pollen_burst_2",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 461,
+        "y": 456,
+        "w": 284,
+        "h": 268
+      },
+      "anchor": {
+        "x": 603,
+        "y": 723
+      }
+    },
+    {
+      "name": "buzzer_pollen_burst_3",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 831,
+        "y": 462,
+        "w": 299,
+        "h": 276
+      },
+      "anchor": {
+        "x": 981,
+        "y": 737
+      }
+    },
+    {
+      "name": "buzzer_pollen_burst_4",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1214,
+        "y": 457,
+        "w": 305,
+        "h": 287
+      },
+      "anchor": {
+        "x": 1367,
+        "y": 743
+      }
+    },
+    {
+      "name": "buzzer_pollen_burst_5",
+      "source": {
+        "x": 1592,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1583,
+        "y": 440,
+        "w": 339,
+        "h": 327
+      },
+      "anchor": {
+        "x": 1753,
+        "y": 766
+      }
+    },
+    {
+      "name": "buzzer_pollen_burst_6",
+      "source": {
+        "x": 1976,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1980,
+        "y": 451,
+        "w": 324,
+        "h": 301
+      },
+      "anchor": {
+        "x": 2142,
+        "y": 751
+      }
+    },
+    {
+      "name": "buzzer_pollen_burst_7",
+      "source": {
+        "x": 2360,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 2385,
+        "y": 463,
+        "w": 293,
+        "h": 272
+      },
+      "anchor": {
+        "x": 2532,
+        "y": 734
+      }
+    },
+    {
+      "name": "buzzer_pollen_burst_8",
+      "source": {
+        "x": 2744,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 2759,
+        "y": 459,
+        "w": 297,
+        "h": 277
+      },
+      "anchor": {
+        "x": 2908,
+        "y": 735
+      }
+    },
+    {
+      "name": "frost_snow_gust_1",
+      "source": {
+        "x": 56,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 62,
+        "y": 862,
+        "w": 315,
+        "h": 239
+      },
+      "anchor": {
+        "x": 220,
+        "y": 1100
+      }
+    },
+    {
+      "name": "frost_snow_gust_2",
+      "source": {
+        "x": 440,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 448,
+        "y": 861,
+        "w": 313,
+        "h": 244
+      },
+      "anchor": {
+        "x": 605,
+        "y": 1104
+      }
+    },
+    {
+      "name": "frost_snow_gust_3",
+      "source": {
+        "x": 824,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 829,
+        "y": 864,
+        "w": 314,
+        "h": 241
+      },
+      "anchor": {
+        "x": 986,
+        "y": 1104
+      }
+    },
+    {
+      "name": "frost_snow_gust_4",
+      "source": {
+        "x": 1208,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1209,
+        "y": 854,
+        "w": 322,
+        "h": 260
+      },
+      "anchor": {
+        "x": 1370,
+        "y": 1113
+      }
+    },
+    {
+      "name": "frost_snow_gust_5",
+      "source": {
+        "x": 1592,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1589,
+        "y": 843,
+        "w": 337,
+        "h": 279
+      },
+      "anchor": {
+        "x": 1758,
+        "y": 1121
+      }
+    },
+    {
+      "name": "frost_snow_gust_6",
+      "source": {
+        "x": 1976,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1986,
+        "y": 851,
+        "w": 320,
+        "h": 266
+      },
+      "anchor": {
+        "x": 2146,
+        "y": 1116
+      }
+    },
+    {
+      "name": "frost_snow_gust_7",
+      "source": {
+        "x": 2360,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 2371,
+        "y": 852,
+        "w": 316,
+        "h": 262
+      },
+      "anchor": {
+        "x": 2529,
+        "y": 1113
+      }
+    },
+    {
+      "name": "frost_snow_gust_8",
+      "source": {
+        "x": 2744,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 2755,
+        "y": 847,
+        "w": 308,
+        "h": 273
+      },
+      "anchor": {
+        "x": 2909,
+        "y": 1119
+      }
+    }
+  ],
+  "animations": [
+    {
+      "name": "autumn_wind_vortex",
+      "frames": [
+        {
+          "name": "autumn_wind_vortex_1",
+          "source": {
+            "x": 56,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 60,
+            "y": 64,
+            "w": 310,
+            "h": 290
+          },
+          "anchor": {
+            "x": 215,
+            "y": 353
+          }
+        },
+        {
+          "name": "autumn_wind_vortex_2",
+          "source": {
+            "x": 440,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 445,
+            "y": 65,
+            "w": 307,
+            "h": 291
+          },
+          "anchor": {
+            "x": 599,
+            "y": 355
+          }
+        },
+        {
+          "name": "autumn_wind_vortex_3",
+          "source": {
+            "x": 824,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 825,
+            "y": 67,
+            "w": 310,
+            "h": 287
+          },
+          "anchor": {
+            "x": 980,
+            "y": 353
+          }
+        },
+        {
+          "name": "autumn_wind_vortex_4",
+          "source": {
+            "x": 1208,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1207,
+            "y": 60,
+            "w": 316,
+            "h": 291
+          },
+          "anchor": {
+            "x": 1365,
+            "y": 350
+          }
+        },
+        {
+          "name": "autumn_wind_vortex_5",
+          "source": {
+            "x": 1592,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1593,
+            "y": 48,
+            "w": 317,
+            "h": 325
+          },
+          "anchor": {
+            "x": 1752,
+            "y": 372
+          }
+        },
+        {
+          "name": "autumn_wind_vortex_6",
+          "source": {
+            "x": 1976,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1988,
+            "y": 61,
+            "w": 315,
+            "h": 292
+          },
+          "anchor": {
+            "x": 2146,
+            "y": 352
+          }
+        },
+        {
+          "name": "autumn_wind_vortex_7",
+          "source": {
+            "x": 2360,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 2370,
+            "y": 69,
+            "w": 317,
+            "h": 282
+          },
+          "anchor": {
+            "x": 2529,
+            "y": 350
+          }
+        },
+        {
+          "name": "autumn_wind_vortex_8",
+          "source": {
+            "x": 2744,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 2753,
+            "y": 62,
+            "w": 311,
+            "h": 295
+          },
+          "anchor": {
+            "x": 2909,
+            "y": 356
+          }
+        }
+      ]
+    },
+    {
+      "name": "buzzer_pollen_burst",
+      "frames": [
+        {
+          "name": "buzzer_pollen_burst_1",
+          "source": {
+            "x": 56,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 69,
+            "y": 456,
+            "w": 298,
+            "h": 281
+          },
+          "anchor": {
+            "x": 218,
+            "y": 736
+          }
+        },
+        {
+          "name": "buzzer_pollen_burst_2",
+          "source": {
+            "x": 440,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 461,
+            "y": 456,
+            "w": 284,
+            "h": 268
+          },
+          "anchor": {
+            "x": 603,
+            "y": 723
+          }
+        },
+        {
+          "name": "buzzer_pollen_burst_3",
+          "source": {
+            "x": 824,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 831,
+            "y": 462,
+            "w": 299,
+            "h": 276
+          },
+          "anchor": {
+            "x": 981,
+            "y": 737
+          }
+        },
+        {
+          "name": "buzzer_pollen_burst_4",
+          "source": {
+            "x": 1208,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1214,
+            "y": 457,
+            "w": 305,
+            "h": 287
+          },
+          "anchor": {
+            "x": 1367,
+            "y": 743
+          }
+        },
+        {
+          "name": "buzzer_pollen_burst_5",
+          "source": {
+            "x": 1592,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1583,
+            "y": 440,
+            "w": 339,
+            "h": 327
+          },
+          "anchor": {
+            "x": 1753,
+            "y": 766
+          }
+        },
+        {
+          "name": "buzzer_pollen_burst_6",
+          "source": {
+            "x": 1976,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1980,
+            "y": 451,
+            "w": 324,
+            "h": 301
+          },
+          "anchor": {
+            "x": 2142,
+            "y": 751
+          }
+        },
+        {
+          "name": "buzzer_pollen_burst_7",
+          "source": {
+            "x": 2360,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 2385,
+            "y": 463,
+            "w": 293,
+            "h": 272
+          },
+          "anchor": {
+            "x": 2532,
+            "y": 734
+          }
+        },
+        {
+          "name": "buzzer_pollen_burst_8",
+          "source": {
+            "x": 2744,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 2759,
+            "y": 459,
+            "w": 297,
+            "h": 277
+          },
+          "anchor": {
+            "x": 2908,
+            "y": 735
+          }
+        }
+      ]
+    },
+    {
+      "name": "frost_snow_gust",
+      "frames": [
+        {
+          "name": "frost_snow_gust_1",
+          "source": {
+            "x": 56,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 62,
+            "y": 862,
+            "w": 315,
+            "h": 239
+          },
+          "anchor": {
+            "x": 220,
+            "y": 1100
+          }
+        },
+        {
+          "name": "frost_snow_gust_2",
+          "source": {
+            "x": 440,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 448,
+            "y": 861,
+            "w": 313,
+            "h": 244
+          },
+          "anchor": {
+            "x": 605,
+            "y": 1104
+          }
+        },
+        {
+          "name": "frost_snow_gust_3",
+          "source": {
+            "x": 824,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 829,
+            "y": 864,
+            "w": 314,
+            "h": 241
+          },
+          "anchor": {
+            "x": 986,
+            "y": 1104
+          }
+        },
+        {
+          "name": "frost_snow_gust_4",
+          "source": {
+            "x": 1208,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1209,
+            "y": 854,
+            "w": 322,
+            "h": 260
+          },
+          "anchor": {
+            "x": 1370,
+            "y": 1113
+          }
+        },
+        {
+          "name": "frost_snow_gust_5",
+          "source": {
+            "x": 1592,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1589,
+            "y": 843,
+            "w": 337,
+            "h": 279
+          },
+          "anchor": {
+            "x": 1758,
+            "y": 1121
+          }
+        },
+        {
+          "name": "frost_snow_gust_6",
+          "source": {
+            "x": 1976,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1986,
+            "y": 851,
+            "w": 320,
+            "h": 266
+          },
+          "anchor": {
+            "x": 2146,
+            "y": 1116
+          }
+        },
+        {
+          "name": "frost_snow_gust_7",
+          "source": {
+            "x": 2360,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 2371,
+            "y": 852,
+            "w": 316,
+            "h": 262
+          },
+          "anchor": {
+            "x": 2529,
+            "y": 1113
+          }
+        },
+        {
+          "name": "frost_snow_gust_8",
+          "source": {
+            "x": 2744,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 2755,
+            "y": 847,
+            "w": 308,
+            "h": 273
+          },
+          "anchor": {
+            "x": 2909,
+            "y": 1119
+          }
+        }
+      ]
+    }
+  ]
+}

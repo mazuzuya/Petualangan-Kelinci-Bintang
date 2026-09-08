@@ -1,0 +1,940 @@
+{
+  "image": "/generated-assets/area_creatures_3-transparent.webp",
+  "grid": {
+    "cols": 8,
+    "rows": 3,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "storm_thunderbird_1",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 36,
+        "y": 84,
+        "w": 294,
+        "h": 277
+      },
+      "anchor": {
+        "x": 183,
+        "y": 360
+      }
+    },
+    {
+      "name": "storm_thunderbird_2",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 418,
+        "y": 134,
+        "w": 299,
+        "h": 226
+      },
+      "anchor": {
+        "x": 568,
+        "y": 359
+      }
+    },
+    {
+      "name": "storm_thunderbird_3",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 818,
+        "y": 26,
+        "w": 285,
+        "h": 335
+      },
+      "anchor": {
+        "x": 961,
+        "y": 360
+      }
+    },
+    {
+      "name": "storm_thunderbird_4",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1172,
+        "y": 27,
+        "w": 371,
+        "h": 325
+      },
+      "anchor": {
+        "x": 1358,
+        "y": 351
+      }
+    },
+    {
+      "name": "storm_thunderbird_5",
+      "source": {
+        "x": 1592,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1595,
+        "y": 96,
+        "w": 362,
+        "h": 255
+      },
+      "anchor": {
+        "x": 1776,
+        "y": 350
+      }
+    },
+    {
+      "name": "storm_thunderbird_6",
+      "source": {
+        "x": 1976,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 2011,
+        "y": 26,
+        "w": 344,
+        "h": 332
+      },
+      "anchor": {
+        "x": 2183,
+        "y": 357
+      }
+    },
+    {
+      "name": "storm_thunderbird_7",
+      "source": {
+        "x": 2360,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 2423,
+        "y": 24,
+        "w": 274,
+        "h": 338
+      },
+      "anchor": {
+        "x": 2560,
+        "y": 361
+      }
+    },
+    {
+      "name": "storm_thunderbird_8",
+      "source": {
+        "x": 2744,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 2783,
+        "y": 122,
+        "w": 291,
+        "h": 239
+      },
+      "anchor": {
+        "x": 2929,
+        "y": 360
+      }
+    },
+    {
+      "name": "ruins_rune_golem_1",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 46,
+        "y": 483,
+        "w": 271,
+        "h": 261
+      },
+      "anchor": {
+        "x": 182,
+        "y": 743
+      }
+    },
+    {
+      "name": "ruins_rune_golem_2",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 425,
+        "y": 448,
+        "w": 296,
+        "h": 297
+      },
+      "anchor": {
+        "x": 573,
+        "y": 744
+      }
+    },
+    {
+      "name": "ruins_rune_golem_3",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 817,
+        "y": 406,
+        "w": 294,
+        "h": 341
+      },
+      "anchor": {
+        "x": 964,
+        "y": 746
+      }
+    },
+    {
+      "name": "ruins_rune_golem_4",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1205,
+        "y": 402,
+        "w": 323,
+        "h": 345
+      },
+      "anchor": {
+        "x": 1367,
+        "y": 746
+      }
+    },
+    {
+      "name": "ruins_rune_golem_5",
+      "source": {
+        "x": 1592,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1610,
+        "y": 465,
+        "w": 349,
+        "h": 272
+      },
+      "anchor": {
+        "x": 1785,
+        "y": 736
+      }
+    },
+    {
+      "name": "ruins_rune_golem_6",
+      "source": {
+        "x": 1976,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 2012,
+        "y": 510,
+        "w": 324,
+        "h": 237
+      },
+      "anchor": {
+        "x": 2174,
+        "y": 746
+      }
+    },
+    {
+      "name": "ruins_rune_golem_7",
+      "source": {
+        "x": 2360,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 2416,
+        "y": 453,
+        "w": 291,
+        "h": 291
+      },
+      "anchor": {
+        "x": 2562,
+        "y": 743
+      }
+    },
+    {
+      "name": "ruins_rune_golem_8",
+      "source": {
+        "x": 2744,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 2797,
+        "y": 495,
+        "w": 270,
+        "h": 251
+      },
+      "anchor": {
+        "x": 2932,
+        "y": 745
+      }
+    },
+    {
+      "name": "strato_jellyfish_1",
+      "source": {
+        "x": 56,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 33,
+        "y": 874,
+        "w": 296,
+        "h": 246
+      },
+      "anchor": {
+        "x": 181,
+        "y": 1119
+      }
+    },
+    {
+      "name": "strato_jellyfish_2",
+      "source": {
+        "x": 440,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 403,
+        "y": 818,
+        "w": 344,
+        "h": 311
+      },
+      "anchor": {
+        "x": 575,
+        "y": 1128
+      }
+    },
+    {
+      "name": "strato_jellyfish_3",
+      "source": {
+        "x": 824,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 792,
+        "y": 784,
+        "w": 351,
+        "h": 382
+      },
+      "anchor": {
+        "x": 968,
+        "y": 1165
+      }
+    },
+    {
+      "name": "strato_jellyfish_4",
+      "source": {
+        "x": 1208,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1179,
+        "y": 817,
+        "w": 336,
+        "h": 337
+      },
+      "anchor": {
+        "x": 1347,
+        "y": 1153
+      }
+    },
+    {
+      "name": "strato_jellyfish_5",
+      "source": {
+        "x": 1592,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1585,
+        "y": 828,
+        "w": 376,
+        "h": 287
+      },
+      "anchor": {
+        "x": 1773,
+        "y": 1114
+      }
+    },
+    {
+      "name": "strato_jellyfish_6",
+      "source": {
+        "x": 1976,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 2019,
+        "y": 873,
+        "w": 284,
+        "h": 246
+      },
+      "anchor": {
+        "x": 2161,
+        "y": 1118
+      }
+    },
+    {
+      "name": "strato_jellyfish_7",
+      "source": {
+        "x": 2360,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 2409,
+        "y": 875,
+        "w": 262,
+        "h": 242
+      },
+      "anchor": {
+        "x": 2540,
+        "y": 1116
+      }
+    },
+    {
+      "name": "strato_jellyfish_8",
+      "source": {
+        "x": 2744,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 2773,
+        "y": 874,
+        "w": 300,
+        "h": 247
+      },
+      "anchor": {
+        "x": 2923,
+        "y": 1120
+      }
+    }
+  ],
+  "animations": [
+    {
+      "name": "storm_thunderbird",
+      "frames": [
+        {
+          "name": "storm_thunderbird_1",
+          "source": {
+            "x": 56,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 36,
+            "y": 84,
+            "w": 294,
+            "h": 277
+          },
+          "anchor": {
+            "x": 183,
+            "y": 360
+          }
+        },
+        {
+          "name": "storm_thunderbird_2",
+          "source": {
+            "x": 440,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 418,
+            "y": 134,
+            "w": 299,
+            "h": 226
+          },
+          "anchor": {
+            "x": 568,
+            "y": 359
+          }
+        },
+        {
+          "name": "storm_thunderbird_3",
+          "source": {
+            "x": 824,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 818,
+            "y": 26,
+            "w": 285,
+            "h": 335
+          },
+          "anchor": {
+            "x": 961,
+            "y": 360
+          }
+        },
+        {
+          "name": "storm_thunderbird_4",
+          "source": {
+            "x": 1208,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1172,
+            "y": 27,
+            "w": 371,
+            "h": 325
+          },
+          "anchor": {
+            "x": 1358,
+            "y": 351
+          }
+        },
+        {
+          "name": "storm_thunderbird_5",
+          "source": {
+            "x": 1592,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1595,
+            "y": 96,
+            "w": 362,
+            "h": 255
+          },
+          "anchor": {
+            "x": 1776,
+            "y": 350
+          }
+        },
+        {
+          "name": "storm_thunderbird_6",
+          "source": {
+            "x": 1976,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 2011,
+            "y": 26,
+            "w": 344,
+            "h": 332
+          },
+          "anchor": {
+            "x": 2183,
+            "y": 357
+          }
+        },
+        {
+          "name": "storm_thunderbird_7",
+          "source": {
+            "x": 2360,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 2423,
+            "y": 24,
+            "w": 274,
+            "h": 338
+          },
+          "anchor": {
+            "x": 2560,
+            "y": 361
+          }
+        },
+        {
+          "name": "storm_thunderbird_8",
+          "source": {
+            "x": 2744,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 2783,
+            "y": 122,
+            "w": 291,
+            "h": 239
+          },
+          "anchor": {
+            "x": 2929,
+            "y": 360
+          }
+        }
+      ]
+    },
+    {
+      "name": "ruins_rune_golem",
+      "frames": [
+        {
+          "name": "ruins_rune_golem_1",
+          "source": {
+            "x": 56,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 46,
+            "y": 483,
+            "w": 271,
+            "h": 261
+          },
+          "anchor": {
+            "x": 182,
+            "y": 743
+          }
+        },
+        {
+          "name": "ruins_rune_golem_2",
+          "source": {
+            "x": 440,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 425,
+            "y": 448,
+            "w": 296,
+            "h": 297
+          },
+          "anchor": {
+            "x": 573,
+            "y": 744
+          }
+        },
+        {
+          "name": "ruins_rune_golem_3",
+          "source": {
+            "x": 824,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 817,
+            "y": 406,
+            "w": 294,
+            "h": 341
+          },
+          "anchor": {
+            "x": 964,
+            "y": 746
+          }
+        },
+        {
+          "name": "ruins_rune_golem_4",
+          "source": {
+            "x": 1208,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1205,
+            "y": 402,
+            "w": 323,
+            "h": 345
+          },
+          "anchor": {
+            "x": 1367,
+            "y": 746
+          }
+        },
+        {
+          "name": "ruins_rune_golem_5",
+          "source": {
+            "x": 1592,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1610,
+            "y": 465,
+            "w": 349,
+            "h": 272
+          },
+          "anchor": {
+            "x": 1785,
+            "y": 736
+          }
+        },
+        {
+          "name": "ruins_rune_golem_6",
+          "source": {
+            "x": 1976,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 2012,
+            "y": 510,
+            "w": 324,
+            "h": 237
+          },
+          "anchor": {
+            "x": 2174,
+            "y": 746
+          }
+        },
+        {
+          "name": "ruins_rune_golem_7",
+          "source": {
+            "x": 2360,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 2416,
+            "y": 453,
+            "w": 291,
+            "h": 291
+          },
+          "anchor": {
+            "x": 2562,
+            "y": 743
+          }
+        },
+        {
+          "name": "ruins_rune_golem_8",
+          "source": {
+            "x": 2744,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 2797,
+            "y": 495,
+            "w": 270,
+            "h": 251
+          },
+          "anchor": {
+            "x": 2932,
+            "y": 745
+          }
+        }
+      ]
+    },
+    {
+      "name": "strato_jellyfish",
+      "frames": [
+        {
+          "name": "strato_jellyfish_1",
+          "source": {
+            "x": 56,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 33,
+            "y": 874,
+            "w": 296,
+            "h": 246
+          },
+          "anchor": {
+            "x": 181,
+            "y": 1119
+          }
+        },
+        {
+          "name": "strato_jellyfish_2",
+          "source": {
+            "x": 440,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 403,
+            "y": 818,
+            "w": 344,
+            "h": 311
+          },
+          "anchor": {
+            "x": 575,
+            "y": 1128
+          }
+        },
+        {
+          "name": "strato_jellyfish_3",
+          "source": {
+            "x": 824,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 792,
+            "y": 784,
+            "w": 351,
+            "h": 382
+          },
+          "anchor": {
+            "x": 968,
+            "y": 1165
+          }
+        },
+        {
+          "name": "strato_jellyfish_4",
+          "source": {
+            "x": 1208,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1179,
+            "y": 817,
+            "w": 336,
+            "h": 337
+          },
+          "anchor": {
+            "x": 1347,
+            "y": 1153
+          }
+        },
+        {
+          "name": "strato_jellyfish_5",
+          "source": {
+            "x": 1592,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1585,
+            "y": 828,
+            "w": 376,
+            "h": 287
+          },
+          "anchor": {
+            "x": 1773,
+            "y": 1114
+          }
+        },
+        {
+          "name": "strato_jellyfish_6",
+          "source": {
+            "x": 1976,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 2019,
+            "y": 873,
+            "w": 284,
+            "h": 246
+          },
+          "anchor": {
+            "x": 2161,
+            "y": 1118
+          }
+        },
+        {
+          "name": "strato_jellyfish_7",
+          "source": {
+            "x": 2360,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 2409,
+            "y": 875,
+            "w": 262,
+            "h": 242
+          },
+          "anchor": {
+            "x": 2540,
+            "y": 1116
+          }
+        },
+        {
+          "name": "strato_jellyfish_8",
+          "source": {
+            "x": 2744,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 2773,
+            "y": 874,
+            "w": 300,
+            "h": 247
+          },
+          "anchor": {
+            "x": 2923,
+            "y": 1120
+          }
+        }
+      ]
+    }
+  ]
+}

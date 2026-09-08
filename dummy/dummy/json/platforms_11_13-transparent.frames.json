@@ -1,0 +1,326 @@
+{
+  "image": "/generated-assets/platforms_11_13-transparent.webp",
+  "grid": {
+    "cols": 5,
+    "rows": 3,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "moon_crater_disc",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 41,
+        "y": 129,
+        "w": 345,
+        "h": 192
+      },
+      "anchor": {
+        "x": 214,
+        "y": 320
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 143
+    },
+    {
+      "name": "moon_crescent_stone",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 455,
+        "y": 60,
+        "w": 299,
+        "h": 286
+      },
+      "anchor": {
+        "x": 605,
+        "y": 345
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 192
+    },
+    {
+      "name": "moon_pearl_vine",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 823,
+        "y": 129,
+        "w": 334,
+        "h": 221
+      },
+      "anchor": {
+        "x": 990,
+        "y": 349
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 142
+    },
+    {
+      "name": "moon_flower_bed",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1205,
+        "y": 72,
+        "w": 341,
+        "h": 279
+      },
+      "anchor": {
+        "x": 1376,
+        "y": 350
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 131
+    },
+    {
+      "name": "moon_stardust_slab",
+      "source": {
+        "x": 1592,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1583,
+        "y": 138,
+        "w": 354,
+        "h": 176
+      },
+      "anchor": {
+        "x": 1760,
+        "y": 313
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 147
+    },
+    {
+      "name": "clock_brass_gear",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 41,
+        "y": 456,
+        "w": 348,
+        "h": 218
+      },
+      "anchor": {
+        "x": 215,
+        "y": 673
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 478
+    },
+    {
+      "name": "clock_copper_pipe",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 424,
+        "y": 482,
+        "w": 358,
+        "h": 196
+      },
+      "anchor": {
+        "x": 603,
+        "y": 677
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 495
+    },
+    {
+      "name": "clock_hour_hand",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 805,
+        "y": 510,
+        "w": 369,
+        "h": 146
+      },
+      "anchor": {
+        "x": 990,
+        "y": 655
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 530
+    },
+    {
+      "name": "clock_balcony",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1205,
+        "y": 433,
+        "w": 342,
+        "h": 262
+      },
+      "anchor": {
+        "x": 1376,
+        "y": 694
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 472
+    },
+    {
+      "name": "clock_spring_pad",
+      "source": {
+        "x": 1592,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1631,
+        "y": 424,
+        "w": 258,
+        "h": 285
+      },
+      "anchor": {
+        "x": 1760,
+        "y": 708
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 432
+    },
+    {
+      "name": "crystal_amethyst_shelf",
+      "source": {
+        "x": 56,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 46,
+        "y": 842,
+        "w": 336,
+        "h": 210
+      },
+      "anchor": {
+        "x": 214,
+        "y": 1051
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 843
+    },
+    {
+      "name": "crystal_geode_cap",
+      "source": {
+        "x": 440,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 431,
+        "y": 778,
+        "w": 337,
+        "h": 298
+      },
+      "anchor": {
+        "x": 600,
+        "y": 1075
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 812
+    },
+    {
+      "name": "crystal_quartz_bridge",
+      "source": {
+        "x": 824,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 814,
+        "y": 788,
+        "w": 352,
+        "h": 247
+      },
+      "anchor": {
+        "x": 990,
+        "y": 1034
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 873
+    },
+    {
+      "name": "crystal_prism_shard",
+      "source": {
+        "x": 1208,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1206,
+        "y": 814,
+        "w": 340,
+        "h": 263
+      },
+      "anchor": {
+        "x": 1376,
+        "y": 1076
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 832
+    },
+    {
+      "name": "crystal_root",
+      "source": {
+        "x": 1592,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1594,
+        "y": 786,
+        "w": 332,
+        "h": 303
+      },
+      "anchor": {
+        "x": 1760,
+        "y": 1088
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 830
+    }
+  ]
+}

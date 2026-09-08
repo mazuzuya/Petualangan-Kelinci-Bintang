@@ -1,0 +1,239 @@
+{
+  "image": "/generated-assets/rabbit_12_beekeeper-transparent.webp",
+  "grid": {
+    "cols": 4,
+    "rows": 3,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "beekeeper_leap_1",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 63,
+        "y": 100,
+        "w": 276,
+        "h": 269
+      },
+      "anchor": {
+        "x": 201,
+        "y": 368
+      }
+    },
+    {
+      "name": "beekeeper_leap_2",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 449,
+        "y": 100,
+        "w": 273,
+        "h": 269
+      },
+      "anchor": {
+        "x": 586,
+        "y": 368
+      }
+    },
+    {
+      "name": "beekeeper_leap_3",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 829,
+        "y": 51,
+        "w": 281,
+        "h": 317
+      },
+      "anchor": {
+        "x": 970,
+        "y": 367
+      }
+    },
+    {
+      "name": "beekeeper_leap_4",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1208,
+        "y": 21,
+        "w": 312,
+        "h": 332
+      },
+      "anchor": {
+        "x": 1364,
+        "y": 352
+      }
+    },
+    {
+      "name": "beekeeper_leap_5",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 51,
+        "y": 415,
+        "w": 288,
+        "h": 352
+      },
+      "anchor": {
+        "x": 195,
+        "y": 766
+      }
+    },
+    {
+      "name": "beekeeper_leap_6",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 411,
+        "y": 413,
+        "w": 358,
+        "h": 275
+      },
+      "anchor": {
+        "x": 590,
+        "y": 687
+      }
+    },
+    {
+      "name": "beekeeper_leap_7",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 855,
+        "y": 425,
+        "w": 280,
+        "h": 330
+      },
+      "anchor": {
+        "x": 995,
+        "y": 754
+      }
+    },
+    {
+      "name": "beekeeper_leap_8",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1230,
+        "y": 437,
+        "w": 293,
+        "h": 331
+      },
+      "anchor": {
+        "x": 1377,
+        "y": 767
+      }
+    },
+    {
+      "name": "beekeeper_leap_9",
+      "source": {
+        "x": 56,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 54,
+        "y": 808,
+        "w": 305,
+        "h": 317
+      },
+      "anchor": {
+        "x": 207,
+        "y": 1124
+      }
+    },
+    {
+      "name": "beekeeper_leap_10",
+      "source": {
+        "x": 440,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 458,
+        "y": 855,
+        "w": 277,
+        "h": 297
+      },
+      "anchor": {
+        "x": 597,
+        "y": 1151
+      }
+    },
+    {
+      "name": "beekeeper_leap_11",
+      "source": {
+        "x": 824,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 837,
+        "y": 849,
+        "w": 305,
+        "h": 303
+      },
+      "anchor": {
+        "x": 990,
+        "y": 1151
+      }
+    },
+    {
+      "name": "beekeeper_leap_12",
+      "source": {
+        "x": 1208,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1235,
+        "y": 836,
+        "w": 301,
+        "h": 316
+      },
+      "anchor": {
+        "x": 1386,
+        "y": 1151
+      }
+    }
+  ]
+}

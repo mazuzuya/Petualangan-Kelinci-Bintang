@@ -1,0 +1,940 @@
+{
+  "image": "/generated-assets/area_creatures_2-transparent.webp",
+  "grid": {
+    "cols": 8,
+    "rows": 3,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "autumn_leaf_spirit_1",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 30,
+        "y": 38,
+        "w": 335,
+        "h": 309
+      },
+      "anchor": {
+        "x": 198,
+        "y": 346
+      }
+    },
+    {
+      "name": "autumn_leaf_spirit_2",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 405,
+        "y": 137,
+        "w": 358,
+        "h": 205
+      },
+      "anchor": {
+        "x": 584,
+        "y": 341
+      }
+    },
+    {
+      "name": "autumn_leaf_spirit_3",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 787,
+        "y": 56,
+        "w": 371,
+        "h": 248
+      },
+      "anchor": {
+        "x": 973,
+        "y": 303
+      }
+    },
+    {
+      "name": "autumn_leaf_spirit_4",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1199,
+        "y": 27,
+        "w": 337,
+        "h": 321
+      },
+      "anchor": {
+        "x": 1368,
+        "y": 347
+      }
+    },
+    {
+      "name": "autumn_leaf_spirit_5",
+      "source": {
+        "x": 1592,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1587,
+        "y": 34,
+        "w": 345,
+        "h": 304
+      },
+      "anchor": {
+        "x": 1760,
+        "y": 337
+      }
+    },
+    {
+      "name": "autumn_leaf_spirit_6",
+      "source": {
+        "x": 1976,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1979,
+        "y": 32,
+        "w": 345,
+        "h": 311
+      },
+      "anchor": {
+        "x": 2152,
+        "y": 342
+      }
+    },
+    {
+      "name": "autumn_leaf_spirit_7",
+      "source": {
+        "x": 2360,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 2368,
+        "y": 91,
+        "w": 351,
+        "h": 248
+      },
+      "anchor": {
+        "x": 2544,
+        "y": 338
+      }
+    },
+    {
+      "name": "autumn_leaf_spirit_8",
+      "source": {
+        "x": 2744,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 2759,
+        "y": 39,
+        "w": 331,
+        "h": 300
+      },
+      "anchor": {
+        "x": 2925,
+        "y": 338
+      }
+    },
+    {
+      "name": "buzzer_bee_guardian_1",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 18,
+        "y": 411,
+        "w": 316,
+        "h": 319
+      },
+      "anchor": {
+        "x": 176,
+        "y": 729
+      }
+    },
+    {
+      "name": "buzzer_bee_guardian_2",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 391,
+        "y": 425,
+        "w": 339,
+        "h": 298
+      },
+      "anchor": {
+        "x": 561,
+        "y": 722
+      }
+    },
+    {
+      "name": "buzzer_bee_guardian_3",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 841,
+        "y": 463,
+        "w": 328,
+        "h": 255
+      },
+      "anchor": {
+        "x": 1005,
+        "y": 717
+      }
+    },
+    {
+      "name": "buzzer_bee_guardian_4",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1218,
+        "y": 463,
+        "w": 335,
+        "h": 223
+      },
+      "anchor": {
+        "x": 1386,
+        "y": 685
+      }
+    },
+    {
+      "name": "buzzer_bee_guardian_5",
+      "source": {
+        "x": 1592,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1593,
+        "y": 401,
+        "w": 336,
+        "h": 379
+      },
+      "anchor": {
+        "x": 1761,
+        "y": 779
+      }
+    },
+    {
+      "name": "buzzer_bee_guardian_6",
+      "source": {
+        "x": 1976,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1959,
+        "y": 409,
+        "w": 329,
+        "h": 341
+      },
+      "anchor": {
+        "x": 2124,
+        "y": 749
+      }
+    },
+    {
+      "name": "buzzer_bee_guardian_7",
+      "source": {
+        "x": 2360,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 2353,
+        "y": 421,
+        "w": 334,
+        "h": 321
+      },
+      "anchor": {
+        "x": 2520,
+        "y": 741
+      }
+    },
+    {
+      "name": "buzzer_bee_guardian_8",
+      "source": {
+        "x": 2744,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 2742,
+        "y": 410,
+        "w": 322,
+        "h": 335
+      },
+      "anchor": {
+        "x": 2903,
+        "y": 744
+      }
+    },
+    {
+      "name": "frost_snowball_1",
+      "source": {
+        "x": 56,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 51,
+        "y": 830,
+        "w": 278,
+        "h": 307
+      },
+      "anchor": {
+        "x": 190,
+        "y": 1136
+      }
+    },
+    {
+      "name": "frost_snowball_2",
+      "source": {
+        "x": 440,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 407,
+        "y": 844,
+        "w": 317,
+        "h": 298
+      },
+      "anchor": {
+        "x": 566,
+        "y": 1141
+      }
+    },
+    {
+      "name": "frost_snowball_3",
+      "source": {
+        "x": 824,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 789,
+        "y": 864,
+        "w": 349,
+        "h": 268
+      },
+      "anchor": {
+        "x": 964,
+        "y": 1131
+      }
+    },
+    {
+      "name": "frost_snowball_4",
+      "source": {
+        "x": 1208,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1184,
+        "y": 914,
+        "w": 363,
+        "h": 223
+      },
+      "anchor": {
+        "x": 1366,
+        "y": 1136
+      }
+    },
+    {
+      "name": "frost_snowball_5",
+      "source": {
+        "x": 1592,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1579,
+        "y": 835,
+        "w": 355,
+        "h": 302
+      },
+      "anchor": {
+        "x": 1757,
+        "y": 1136
+      }
+    },
+    {
+      "name": "frost_snowball_6",
+      "source": {
+        "x": 1976,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1987,
+        "y": 832,
+        "w": 330,
+        "h": 307
+      },
+      "anchor": {
+        "x": 2152,
+        "y": 1138
+      }
+    },
+    {
+      "name": "frost_snowball_7",
+      "source": {
+        "x": 2360,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 2391,
+        "y": 831,
+        "w": 288,
+        "h": 307
+      },
+      "anchor": {
+        "x": 2535,
+        "y": 1137
+      }
+    },
+    {
+      "name": "frost_snowball_8",
+      "source": {
+        "x": 2744,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 2785,
+        "y": 831,
+        "w": 279,
+        "h": 306
+      },
+      "anchor": {
+        "x": 2925,
+        "y": 1136
+      }
+    }
+  ],
+  "animations": [
+    {
+      "name": "autumn_leaf_spirit",
+      "frames": [
+        {
+          "name": "autumn_leaf_spirit_1",
+          "source": {
+            "x": 56,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 30,
+            "y": 38,
+            "w": 335,
+            "h": 309
+          },
+          "anchor": {
+            "x": 198,
+            "y": 346
+          }
+        },
+        {
+          "name": "autumn_leaf_spirit_2",
+          "source": {
+            "x": 440,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 405,
+            "y": 137,
+            "w": 358,
+            "h": 205
+          },
+          "anchor": {
+            "x": 584,
+            "y": 341
+          }
+        },
+        {
+          "name": "autumn_leaf_spirit_3",
+          "source": {
+            "x": 824,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 787,
+            "y": 56,
+            "w": 371,
+            "h": 248
+          },
+          "anchor": {
+            "x": 973,
+            "y": 303
+          }
+        },
+        {
+          "name": "autumn_leaf_spirit_4",
+          "source": {
+            "x": 1208,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1199,
+            "y": 27,
+            "w": 337,
+            "h": 321
+          },
+          "anchor": {
+            "x": 1368,
+            "y": 347
+          }
+        },
+        {
+          "name": "autumn_leaf_spirit_5",
+          "source": {
+            "x": 1592,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1587,
+            "y": 34,
+            "w": 345,
+            "h": 304
+          },
+          "anchor": {
+            "x": 1760,
+            "y": 337
+          }
+        },
+        {
+          "name": "autumn_leaf_spirit_6",
+          "source": {
+            "x": 1976,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1979,
+            "y": 32,
+            "w": 345,
+            "h": 311
+          },
+          "anchor": {
+            "x": 2152,
+            "y": 342
+          }
+        },
+        {
+          "name": "autumn_leaf_spirit_7",
+          "source": {
+            "x": 2360,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 2368,
+            "y": 91,
+            "w": 351,
+            "h": 248
+          },
+          "anchor": {
+            "x": 2544,
+            "y": 338
+          }
+        },
+        {
+          "name": "autumn_leaf_spirit_8",
+          "source": {
+            "x": 2744,
+            "y": 56,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 2759,
+            "y": 39,
+            "w": 331,
+            "h": 300
+          },
+          "anchor": {
+            "x": 2925,
+            "y": 338
+          }
+        }
+      ]
+    },
+    {
+      "name": "buzzer_bee_guardian",
+      "frames": [
+        {
+          "name": "buzzer_bee_guardian_1",
+          "source": {
+            "x": 56,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 18,
+            "y": 411,
+            "w": 316,
+            "h": 319
+          },
+          "anchor": {
+            "x": 176,
+            "y": 729
+          }
+        },
+        {
+          "name": "buzzer_bee_guardian_2",
+          "source": {
+            "x": 440,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 391,
+            "y": 425,
+            "w": 339,
+            "h": 298
+          },
+          "anchor": {
+            "x": 561,
+            "y": 722
+          }
+        },
+        {
+          "name": "buzzer_bee_guardian_3",
+          "source": {
+            "x": 824,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 841,
+            "y": 463,
+            "w": 328,
+            "h": 255
+          },
+          "anchor": {
+            "x": 1005,
+            "y": 717
+          }
+        },
+        {
+          "name": "buzzer_bee_guardian_4",
+          "source": {
+            "x": 1208,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1218,
+            "y": 463,
+            "w": 335,
+            "h": 223
+          },
+          "anchor": {
+            "x": 1386,
+            "y": 685
+          }
+        },
+        {
+          "name": "buzzer_bee_guardian_5",
+          "source": {
+            "x": 1592,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1593,
+            "y": 401,
+            "w": 336,
+            "h": 379
+          },
+          "anchor": {
+            "x": 1761,
+            "y": 779
+          }
+        },
+        {
+          "name": "buzzer_bee_guardian_6",
+          "source": {
+            "x": 1976,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1959,
+            "y": 409,
+            "w": 329,
+            "h": 341
+          },
+          "anchor": {
+            "x": 2124,
+            "y": 749
+          }
+        },
+        {
+          "name": "buzzer_bee_guardian_7",
+          "source": {
+            "x": 2360,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 2353,
+            "y": 421,
+            "w": 334,
+            "h": 321
+          },
+          "anchor": {
+            "x": 2520,
+            "y": 741
+          }
+        },
+        {
+          "name": "buzzer_bee_guardian_8",
+          "source": {
+            "x": 2744,
+            "y": 440,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 2742,
+            "y": 410,
+            "w": 322,
+            "h": 335
+          },
+          "anchor": {
+            "x": 2903,
+            "y": 744
+          }
+        }
+      ]
+    },
+    {
+      "name": "frost_snowball",
+      "frames": [
+        {
+          "name": "frost_snowball_1",
+          "source": {
+            "x": 56,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 51,
+            "y": 830,
+            "w": 278,
+            "h": 307
+          },
+          "anchor": {
+            "x": 190,
+            "y": 1136
+          }
+        },
+        {
+          "name": "frost_snowball_2",
+          "source": {
+            "x": 440,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 407,
+            "y": 844,
+            "w": 317,
+            "h": 298
+          },
+          "anchor": {
+            "x": 566,
+            "y": 1141
+          }
+        },
+        {
+          "name": "frost_snowball_3",
+          "source": {
+            "x": 824,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 789,
+            "y": 864,
+            "w": 349,
+            "h": 268
+          },
+          "anchor": {
+            "x": 964,
+            "y": 1131
+          }
+        },
+        {
+          "name": "frost_snowball_4",
+          "source": {
+            "x": 1208,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1184,
+            "y": 914,
+            "w": 363,
+            "h": 223
+          },
+          "anchor": {
+            "x": 1366,
+            "y": 1136
+          }
+        },
+        {
+          "name": "frost_snowball_5",
+          "source": {
+            "x": 1592,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1579,
+            "y": 835,
+            "w": 355,
+            "h": 302
+          },
+          "anchor": {
+            "x": 1757,
+            "y": 1136
+          }
+        },
+        {
+          "name": "frost_snowball_6",
+          "source": {
+            "x": 1976,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 1987,
+            "y": 832,
+            "w": 330,
+            "h": 307
+          },
+          "anchor": {
+            "x": 2152,
+            "y": 1138
+          }
+        },
+        {
+          "name": "frost_snowball_7",
+          "source": {
+            "x": 2360,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 2391,
+            "y": 831,
+            "w": 288,
+            "h": 307
+          },
+          "anchor": {
+            "x": 2535,
+            "y": 1137
+          }
+        },
+        {
+          "name": "frost_snowball_8",
+          "source": {
+            "x": 2744,
+            "y": 824,
+            "w": 320,
+            "h": 320
+          },
+          "content": {
+            "x": 2785,
+            "y": 831,
+            "w": 279,
+            "h": 306
+          },
+          "anchor": {
+            "x": 2925,
+            "y": 1136
+          }
+        }
+      ]
+    }
+  ]
+}

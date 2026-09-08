@@ -1,0 +1,163 @@
+{
+  "image": "/generated-assets/enemies_20-transparent.webp",
+  "grid": {
+    "cols": 4,
+    "rows": 2,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "forge_star_titan_1",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 31,
+        "y": 27,
+        "w": 322,
+        "h": 355
+      },
+      "anchor": {
+        "x": 192,
+        "y": 381
+      }
+    },
+    {
+      "name": "forge_star_titan_2",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 410,
+        "y": 26,
+        "w": 338,
+        "h": 354
+      },
+      "anchor": {
+        "x": 579,
+        "y": 379
+      }
+    },
+    {
+      "name": "forge_star_titan_3",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 824,
+        "y": 18,
+        "w": 309,
+        "h": 368
+      },
+      "anchor": {
+        "x": 979,
+        "y": 385
+      }
+    },
+    {
+      "name": "forge_star_titan_4",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1186,
+        "y": 63,
+        "w": 381,
+        "h": 320
+      },
+      "anchor": {
+        "x": 1377,
+        "y": 382
+      }
+    },
+    {
+      "name": "forge_star_titan_5",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 24,
+        "y": 434,
+        "w": 382,
+        "h": 338
+      },
+      "anchor": {
+        "x": 215,
+        "y": 771
+      }
+    },
+    {
+      "name": "forge_star_titan_6",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 433,
+        "y": 432,
+        "w": 336,
+        "h": 336
+      },
+      "anchor": {
+        "x": 601,
+        "y": 767
+      }
+    },
+    {
+      "name": "forge_star_titan_7",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 828,
+        "y": 432,
+        "w": 305,
+        "h": 343
+      },
+      "anchor": {
+        "x": 981,
+        "y": 774
+      }
+    },
+    {
+      "name": "forge_star_titan_8",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1208,
+        "y": 435,
+        "w": 317,
+        "h": 340
+      },
+      "anchor": {
+        "x": 1367,
+        "y": 774
+      }
+    }
+  ]
+}

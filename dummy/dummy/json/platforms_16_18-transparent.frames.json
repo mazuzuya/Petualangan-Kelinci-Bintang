@@ -1,0 +1,326 @@
+{
+  "image": "/generated-assets/platforms_16_18-transparent.webp",
+  "grid": {
+    "cols": 5,
+    "rows": 3,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "ocean_coral_shelf",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 42,
+        "y": 119,
+        "w": 362,
+        "h": 227
+      },
+      "anchor": {
+        "x": 223,
+        "y": 345
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 168
+    },
+    {
+      "name": "ocean_giant_shell",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 442,
+        "y": 91,
+        "w": 337,
+        "h": 266
+      },
+      "anchor": {
+        "x": 611,
+        "y": 356
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 130
+    },
+    {
+      "name": "ocean_bubble_raft",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 814,
+        "y": 156,
+        "w": 340,
+        "h": 169
+      },
+      "anchor": {
+        "x": 984,
+        "y": 324
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 161
+    },
+    {
+      "name": "ocean_kelp_braid",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1193,
+        "y": 159,
+        "w": 344,
+        "h": 199
+      },
+      "anchor": {
+        "x": 1365,
+        "y": 357
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 166
+    },
+    {
+      "name": "ocean_wave_slab",
+      "source": {
+        "x": 1592,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1574,
+        "y": 157,
+        "w": 361,
+        "h": 167
+      },
+      "anchor": {
+        "x": 1755,
+        "y": 323
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 176
+    },
+    {
+      "name": "carnival_ticket_roof",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 41,
+        "y": 425,
+        "w": 363,
+        "h": 254
+      },
+      "anchor": {
+        "x": 223,
+        "y": 678
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 544
+    },
+    {
+      "name": "carnival_big_drum",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 450,
+        "y": 481,
+        "w": 318,
+        "h": 223
+      },
+      "anchor": {
+        "x": 609,
+        "y": 703
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 490
+    },
+    {
+      "name": "carnival_carousel_base",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 815,
+        "y": 479,
+        "w": 339,
+        "h": 226
+      },
+      "anchor": {
+        "x": 985,
+        "y": 704
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 494
+    },
+    {
+      "name": "carnival_candyfloss_cloud",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1191,
+        "y": 480,
+        "w": 348,
+        "h": 219
+      },
+      "anchor": {
+        "x": 1365,
+        "y": 698
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 489
+    },
+    {
+      "name": "carnival_spirit_plank",
+      "source": {
+        "x": 1592,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1574,
+        "y": 429,
+        "w": 360,
+        "h": 253
+      },
+      "anchor": {
+        "x": 1754,
+        "y": 681
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 507
+    },
+    {
+      "name": "library_book_stack",
+      "source": {
+        "x": 56,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 45,
+        "y": 837,
+        "w": 354,
+        "h": 236
+      },
+      "anchor": {
+        "x": 222,
+        "y": 1072
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 846
+    },
+    {
+      "name": "library_scroll_bridge",
+      "source": {
+        "x": 440,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 443,
+        "y": 852,
+        "w": 337,
+        "h": 207
+      },
+      "anchor": {
+        "x": 612,
+        "y": 1058
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 885
+    },
+    {
+      "name": "library_wood_shelf",
+      "source": {
+        "x": 824,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 814,
+        "y": 857,
+        "w": 341,
+        "h": 160
+      },
+      "anchor": {
+        "x": 985,
+        "y": 1016
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 857
+    },
+    {
+      "name": "library_ink_cloud",
+      "source": {
+        "x": 1208,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1191,
+        "y": 823,
+        "w": 347,
+        "h": 250
+      },
+      "anchor": {
+        "x": 1365,
+        "y": 1072
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 860
+    },
+    {
+      "name": "library_flying_pages",
+      "source": {
+        "x": 1592,
+        "y": 824,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1574,
+        "y": 823,
+        "w": 360,
+        "h": 237
+      },
+      "anchor": {
+        "x": 1754,
+        "y": 1059
+      },
+      "surfaceEdge": "top",
+      "surfaceY": 879
+    }
+  ]
+}

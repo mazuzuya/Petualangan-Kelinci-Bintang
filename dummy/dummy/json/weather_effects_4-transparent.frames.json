@@ -1,0 +1,163 @@
+{
+  "image": "/generated-assets/weather_effects_4-transparent.webp",
+  "grid": {
+    "cols": 4,
+    "rows": 2,
+    "frameWidth": 320,
+    "frameHeight": 320
+  },
+  "frames": [
+    {
+      "name": "cosmic_meteor_shower_1",
+      "source": {
+        "x": 56,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 45,
+        "y": 58,
+        "w": 314,
+        "h": 282
+      },
+      "anchor": {
+        "x": 202,
+        "y": 339
+      }
+    },
+    {
+      "name": "cosmic_meteor_shower_2",
+      "source": {
+        "x": 440,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 438,
+        "y": 26,
+        "w": 300,
+        "h": 312
+      },
+      "anchor": {
+        "x": 588,
+        "y": 337
+      }
+    },
+    {
+      "name": "cosmic_meteor_shower_3",
+      "source": {
+        "x": 824,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 826,
+        "y": 20,
+        "w": 306,
+        "h": 348
+      },
+      "anchor": {
+        "x": 979,
+        "y": 367
+      }
+    },
+    {
+      "name": "cosmic_meteor_shower_4",
+      "source": {
+        "x": 1208,
+        "y": 56,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1204,
+        "y": 32,
+        "w": 343,
+        "h": 329
+      },
+      "anchor": {
+        "x": 1376,
+        "y": 360
+      }
+    },
+    {
+      "name": "cosmic_meteor_shower_5",
+      "source": {
+        "x": 56,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 47,
+        "y": 439,
+        "w": 306,
+        "h": 333
+      },
+      "anchor": {
+        "x": 200,
+        "y": 771
+      }
+    },
+    {
+      "name": "cosmic_meteor_shower_6",
+      "source": {
+        "x": 440,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 442,
+        "y": 443,
+        "w": 287,
+        "h": 308
+      },
+      "anchor": {
+        "x": 586,
+        "y": 750
+      }
+    },
+    {
+      "name": "cosmic_meteor_shower_7",
+      "source": {
+        "x": 824,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 856,
+        "y": 456,
+        "w": 263,
+        "h": 305
+      },
+      "anchor": {
+        "x": 988,
+        "y": 760
+      }
+    },
+    {
+      "name": "cosmic_meteor_shower_8",
+      "source": {
+        "x": 1208,
+        "y": 440,
+        "w": 320,
+        "h": 320
+      },
+      "content": {
+        "x": 1224,
+        "y": 457,
+        "w": 317,
+        "h": 297
+      },
+      "anchor": {
+        "x": 1383,
+        "y": 753
+      }
+    }
+  ]
+}
